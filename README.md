@@ -1,4 +1,4 @@
-<h1>Salut, je suis GUARDIANOFCODE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1>Salut, je suis GUARDIANSOFCODE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 <table style="border: 3px solid #00ff00; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #000000, #0a0a0a); color: #ffffff; box-shadow: 0px 0px 15px rgba(0, 255, 0, 0.5); text-align: center; font-family: 'Trebuchet MS', sans-serif; font-size: 1.2em; width: 100%;">
   <tr>
@@ -46,7 +46,7 @@
 
 
  ## Stats📈
-<h1 align="center">Hi 👋, I'm  GUARDIANOFCODE</h1>
+<h1 align="center">Hi 👋, I'm  GUARDIANSOFCODE</h1>
 <h3 align="center">A passionate developer exploring new technologies and coding challenges</h3>
 
 <p align="center">
