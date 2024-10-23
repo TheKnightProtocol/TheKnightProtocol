@@ -119,19 +119,19 @@
 
 
 
-- 🔭 I’m currently working on *Web Development*
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning *Web Development*
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on *Task Management*
+- 👯 I’m looking to collaborate on **Task Management**
 
-- 🤝 I’m looking for help with *Task Management*
+- 🤝 I’m looking for help with **Task Management**
 
-- 💬 Ask me about *Atoms, Equations and Spider-man*
+- 💬 Ask me about **Atoms, Equations and Spider-man**
 
-- 📫 How to reach me *workwithsankalp008@gmail.com*
+- 📫 How to reach me **workwithsankalp008@gmail.com**
 
-- ⚡ Fun fact *I like Physics*
+- ⚡ Fun fact **I like Physics**
 
 
 <p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif;">
