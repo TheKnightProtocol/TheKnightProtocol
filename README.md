@@ -129,11 +129,6 @@ https://leetcode.com/Qwgcbnjh5166527_516_/
 
 
 
-
-
-
-
-
 <div align="center"> 
   <h2 align="center">Guardiansofcode's LeetCode Achievements</h2>  
   <p align="center">
@@ -152,11 +147,13 @@ https://leetcode.com/Qwgcbnjh5166527_516_/
   </p>
   <p align="center">
     <img width="40%" src="https://leetcard.jacoblin.cool/Qwgcbnjh5166527_516_?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Guardiansofcode&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="Guardiansofcode GitHub Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Guardiansofcode&theme=neon&hide_border=true" alt="Guardiansofcode GitHub Streak" />
   </p>
   <h3 align="center">Guardiansofcode (<a href="https://github.com/Guardiansofcode" target="_blank">GitHub Profile</a>)</h3>
 </div>
+
+
+
+
 
 
 
