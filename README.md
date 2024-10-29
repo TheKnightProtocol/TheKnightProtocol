@@ -77,17 +77,27 @@
 
 
 
-<h2 align="center">⚡ LeetCode Info ⚡</h2>  
-<p align="center">
-  <a href="https://leetcode.com/u/Qwgcbnjh5166527_516_/" target="_blank">
-    <img align="top" src="https://leetcard.jacoblin.cool/aarushi_bhatia?theme=dark&font=Nunito" />
-  </a>
-</p>
-
-<h2 align="center">⚡ LeetCode Info ⚡</h2>  
-<p align="center">
-  [![LeetCode Profile](https://leetcard.jacoblin.cool/aarushi_bhatia?theme=dark&font=Nunito)](https://leetcode.com/u/Qwgcbnjh5166527_516_/)
-</p>
+<div align="center"> 
+  <h2 align="center">Guardiansofcode's LeetCode Achievements</h2>  
+  <p align="center">
+    <a href="https://leetcode.com/Qwgcbnjh5166527_516_/" target="_blank">
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/Qwgcbnjh5166527_516_/" target="_blank">
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/Qwgcbnjh5166527_516_/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 200 Problem Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/Qwgcbnjh5166527_516_/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problem Badge" height="200" width="200" />
+    </a>
+  </p>
+  <p align="center">
+    <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/Qwgcbnjh5166527_516_?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
+  </p>
+  <h3 align="center">Guardiansofcode (<a href="https://github.com/Guardiansofcode" target="_blank">GitHub Profile</a>)</h3>
+</div>
 
 
 
