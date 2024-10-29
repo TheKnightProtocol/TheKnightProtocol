@@ -130,15 +130,26 @@ https://leetcode.com/Qwgcbnjh5166527_516_/
 <div align="center"> 
   <h2 align="center">Guardiansofcode's LeetCode Journey</h2>  
   <p align="center">
-    <!-- Placeholder for future achievements; replace with actual badge URLs as you earn them -->
-    <img align="center" src="https://leetcode.com/static/images/badges/placeholder-badge.png" alt="LeetCode Achievement Badge" height="200" width="200" />
-    <img align="center" src="https://leetcode.com/static/images/badges/placeholder-badge.png" alt="LeetCode Achievement Badge" height="200" width="200" />
+    <!-- Placeholder for potential future achievements; replace these with actual badge URLs as you earn them -->
+    <a href="https://leetcode.com/Qwgcbnjh5166527_516_" target="_blank">
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/Qwgcbnjh5166527_516_" target="_blank">
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/Qwgcbnjh5166527_516_" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 200 Problem Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/Qwgcbnjh5166527_516_" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problem Badge" height="200" width="200" />
+    </a>
   </p>
   <p align="center">
     <img width="40%" src="https://leetcard.jacoblin.cool/Qwgcbnjh5166527_516_?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
   </p>
   <h3 align="center">Guardiansofcode (<a href="https://github.com/Guardiansofcode" target="_blank">GitHub Profile</a>)</h3>
 </div>
+
 
 
 
