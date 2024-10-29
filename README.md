@@ -77,27 +77,6 @@
 
 
 
-<div align="center"> 
-  <h2 align="center">Guardiansofcode's LeetCode Achievements</h2>  
-  <p align="center">
-    <a href="https://leetcode.com/Qwgcbnjh5166527_516_/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February Badge" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/Qwgcbnjh5166527_516_/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March Badge" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/Qwgcbnjh5166527_516_/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 200 Problem Badge" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/Qwgcbnjh5166527_516_/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problem Badge" height="200" width="200" />
-    </a>
-  </p>
-  <p align="center">
-    <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/Qwgcbnjh5166527_516_?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
-  </p>
-  <h3 align="center">Guardiansofcode (<a href="https://github.com/Guardiansofcode" target="_blank">GitHub Profile</a>)</h3>
-</div>
 
 
 
@@ -145,6 +124,8 @@
   <img src="https://img.icons8.com/color/48/000000/like--v1.png" alt="Heart" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
 </a>
 
+
+https://leetcode.com/Qwgcbnjh5166527_516_/
 
 
 
