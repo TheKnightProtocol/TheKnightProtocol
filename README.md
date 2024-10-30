@@ -120,20 +120,30 @@
   <img src="https://img.icons8.com/color/48/000000/facebook-like.png" alt="Like" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
 </a>
 
-<!-- Heart Icon -->
-<a href="https://github.com/GUARDIANSOFCODE">
-  <img src="https://img.icons8.com/color/48/000000/like--v1.png" alt="Heart" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-</a>
+<p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif;">
+  🌟 If you're enjoying the content so far, your support means the world! 🌟
+</p>
 
 <!-- Star Icon with Direct Link to Star the Repo -->
-<a href="https://github.com/GUARDIANSOFCODE/your-repo-name" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/4a90e2/star.png" alt="Star" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<a href="https://github.com/GUARDIANSOFCODE/Leetcode" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/48/ffcc00/star.png" alt="Star" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
 </a>
 
 <!-- Fork Icon with Direct Link to Fork the Repo -->
-<a href="https://github.com/GUARDIANSOFCODE/your-repo-name/fork" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/30/4a90e2/code-fork.png" alt="Fork" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<a href="https://github.com/GUARDIANSOFCODE/Leetcode/fork" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/code-fork.png" alt="Fork" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
 </a>
+
+<!-- Watch Icon with Direct Link to Watch the Repo -->
+<a href="https://github.com/GUARDIANSOFCODE/Leetcode/subscription" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/eye.png" alt="Watch" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+</a>
+
+<!-- Issue Icon with Direct Link to Create an Issue -->
+<a href="https://github.com/GUARDIANSOFCODE/Leetcode/issues" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/task.png" alt="Issues" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+</a>
+
 
  
 
