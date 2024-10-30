@@ -111,21 +111,31 @@
 
 - ⚡ Fun fact **I like Physics**
 
-
 <p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif;">
   🌟 If you're enjoying the content so far, give it a thumbs up and follow! Your support means the world! 🌟
 </p>
 
-
-<a href="https://github.com/your-profile">
+<!-- Like Icon -->
+<a href="https://github.com/GUARDIANSOFCODE">
   <img src="https://img.icons8.com/color/48/000000/facebook-like.png" alt="Like" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
 </a>
-<a href="https://github.com/your-profile">
-  <img src="https://img.icons8.com/color/48/000000/like--v1.png" alt="Heart" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+
+<!-- Heart Icon -->
+<a href="https://github.com/GUARDIANSOFCODE">
+  <img src="https://img.icons8.com/color/48/000000/like--v1.png" alt="Heart" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
 </a>
 
+<!-- Star Icon with Direct Link to Star the Repo -->
+<a href="https://github.com/GUARDIANSOFCODE/your-repo-name" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/4a90e2/star.png" alt="Star" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+</a>
 
+<!-- Fork Icon with Direct Link to Fork the Repo -->
+<a href="https://github.com/GUARDIANSOFCODE/your-repo-name/fork" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/30/4a90e2/code-fork.png" alt="Fork" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+</a>
 
+ 
 
 <div align="center"> 
   <h2 align="center">Guardiansofcode's LeetCode Journey</h2>  
