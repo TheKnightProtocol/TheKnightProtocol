@@ -68,9 +68,8 @@
 </p>
 
 
+<img align="right" width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Wizardry" style="border-radius:10px;box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
 
-
-<img align="right" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Wizardry" style="border-radius:10px;box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
 
 
 
