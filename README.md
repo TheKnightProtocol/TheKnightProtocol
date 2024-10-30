@@ -68,7 +68,7 @@
 </p>
 
 [![MasterHead](https://camo.githubusercontent.com/8c3e3f9fbb9f4064e08721b3e2f1a5de6dc0c8e7f1b7fbb2e3a7e2141116d9f7/68747470733a2f2f696d6775722e636f6d2f6e6f4e503478592e676966)](https://github.com/guardiansoffcode)
-<h1 align="center">Hey 👋, I'm Lakshay Jain - Coding with a Twist!</h1>
+<h1 align="center">Hey 👋, I'm Guardians of Code - Coding with a Twist!</h1>
 <h3 align="center">🚀 Code Guardian | Building the Future of Tech from India 🌏</h3>
 
 <img align="right" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Wizardry" style="border-radius:10px;box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
@@ -77,7 +77,9 @@
   <img src="https://komarev.com/ghpvc/?username=guardiansoffcode&label=🔥 Profile Views 🔥&color=ff69b4&style=flat" alt="guardiansoffcode" />
 </p>
 
-- 🌌 **Exploring Tech Universes**: From AI to data realms!
+- 💻 **Tech Skills**: Python, C, C++, Java
+- 🌌 **Cosmic Explorer**: Big fan of the cosmos and mysteries of the universe 🌠
+- 🎭 **Marvel & DC Enthusiast**: Especially drawn to the villains... because every hero needs a worthy challenge!
 - 💡 **Fun Fact**: My code might just be guarding secrets from another dimension... 👾
 
 <div align="center">
