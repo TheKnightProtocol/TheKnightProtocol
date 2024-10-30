@@ -111,39 +111,45 @@
 
 - ⚡ Fun fact **I like Physics**
 
-<p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif;">
-  🌟 Your support means the world! Let's make this project awesome together! 🌟
+<!-- Introductory Message -->
+<p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin-bottom: 20px;">
+  🌟 Support the project by starring, forking, or watching! Let's make it awesome together! 🌟
 </p>
 
-<div style="text-align: center; margin: 20px 0;">
-  <!-- Star Icon with Direct Link to Star the Repo -->
-  <a href="https://github.com/GUARDIANSOFCODE/Leetcode" target="_blank" style="margin-right: 20px;">
+<!-- Centered Action Buttons -->
+<div style="display: flex; justify-content: center; gap: 40px; margin: 20px 0;">
+
+  <!-- Star Button -->
+  <a href="https://github.com/GUARDIANSOFCODE/Leetcode" target="_blank" style="text-decoration: none; text-align: center;">
     <img src="https://img.icons8.com/ios-glyphs/48/ffcc00/star.png" alt="Star" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <div style="color: #ffcc00; font-family: 'Trebuchet MS', sans-serif;">⭐ Star</div>
+    <p style="color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin: 5px 0;">⭐ Star</p>
   </a>
 
-  <!-- Fork Icon with Direct Link to Fork the Repo -->
-  <a href="https://github.com/GUARDIANSOFCODE/Leetcode/fork" target="_blank" style="margin-right: 20px;">
+  <!-- Fork Button -->
+  <a href="https://github.com/GUARDIANSOFCODE/Leetcode/fork" target="_blank" style="text-decoration: none; text-align: center;">
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/code-fork.png" alt="Fork" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <div style="color: #ffffff; font-family: 'Trebuchet MS', sans-serif;">🍴 Fork</div>
+    <p style="color: #ffffff; font-family: 'Trebuchet MS', sans-serif; margin: 5px 0;">🍴 Fork</p>
   </a>
 
-  <!-- Watch Icon with Direct Link to Watch the Repo -->
-  <a href="https://github.com/GUARDIANSOFCODE/Leetcode/subscription" target="_blank" style="margin-right: 20px;">
+  <!-- Watch Button -->
+  <a href="https://github.com/GUARDIANSOFCODE/Leetcode/subscription" target="_blank" style="text-decoration: none; text-align: center;">
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/eye.png" alt="Watch" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <div style="color: #ffffff; font-family: 'Trebuchet MS', sans-serif;">👁️ Watch</div>
+    <p style="color: #ffffff; font-family: 'Trebuchet MS', sans-serif; margin: 5px 0;">👁️ Watch</p>
   </a>
 
-  <!-- Issues Icon with Direct Link to Create an Issue -->
-  <a href="https://github.com/GUARDIANSOFCODE/Leetcode/issues" target="_blank">
+  <!-- Issues Button -->
+  <a href="https://github.com/GUARDIANSOFCODE/Leetcode/issues" target="_blank" style="text-decoration: none; text-align: center;">
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/task.png" alt="Issues" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <div style="color: #ffffff; font-family: 'Trebuchet MS', sans-serif;">🐞 Issues</div>
+    <p style="color: #ffffff; font-family: 'Trebuchet MS', sans-serif; margin: 5px 0;">🐞 Issues</p>
   </a>
+  
 </div>
 
-<p style="text-align: center; font-size: 1.2em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif;">
-  ❤️ Thank you for your support! Let's collaborate and improve this project together! ❤️
+<!-- Closing Message -->
+<p style="text-align: center; font-size: 1.2em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin-top: 20px;">
+  ❤️ Thank you for being part of this journey! Let's grow this project together! ❤️
 </p>
+
 
 
  
