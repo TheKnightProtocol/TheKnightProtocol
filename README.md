@@ -67,9 +67,25 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GUARDIANSOFCODE&theme=neon&hide_border=true" alt="GUARDIANSOFCODE" />
 </p>
 
+[![MasterHead](https://camo.githubusercontent.com/8c3e3f9fbb9f4064e08721b3e2f1a5de6dc0c8e7f1b7fbb2e3a7e2141116d9f7/68747470733a2f2f696d6775722e636f6d2f6e6f4e503478592e676966)](https://github.com/guardiansoffcode)
+<h1 align="center">Hey 👋, I'm Lakshay Jain - Coding with a Twist!</h1>
+<h3 align="center">🚀 Code Guardian | Building the Future of Tech from India 🌏</h3>
 
-[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://github.com/guardiansoffcode)
-<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Coding GIF">
+<img align="right" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Wizardry" style="border-radius:10px;box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=guardiansoffcode&label=🔥 Profile Views 🔥&color=ff69b4&style=flat" alt="guardiansoffcode" />
+</p>
+
+- 🌌 **Exploring Tech Universes**: From AI to data realms!
+- 💡 **Fun Fact**: My code might just be guarding secrets from another dimension... 👾
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guardiansoffcode&show_icons=true&theme=highcontrast" alt="guardiansoffcode's stats" />
+</div>
+
+Let's connect and build something out of this world! 🚀
+
 
 
 
