@@ -68,6 +68,10 @@
 </p>
 
 
+[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://github.com/guardiansoffcode)
+<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Coding GIF">
+
+
 
 [![](https://img.shields.io/badge/-@Guardiansofcode-%23181717?style=flat-square&logo=github)](https://github.com/Guardiansofcode)
 [![](https://img.shields.io/badge/-@Guardiansofcode-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Guardiansofcode)
