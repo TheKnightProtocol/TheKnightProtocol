@@ -112,9 +112,9 @@
 
 - 👯 I’m looking to collaborate on **Task Management**
 
-- 🤝 I’m looking for help with **Real life projects **
+- 🤝 I’m looking for help with **Real life projects**
 
-- 💬 Ask me about **Hacks, Sci - fi s and Sports**
+- 💬 Ask me about **Hacks, Sci - fi and Sports**
 
 - 📫 How to reach me **workwithsankalp008@gmail.com**
 
