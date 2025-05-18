@@ -118,7 +118,7 @@
 
 - 📫 How to reach me **workwithsankalp008@gmail.com**
 
-- ⚡ Fun fact **I know You Better than you **
+- ⚡ Fun fact **I know You Better than you**
 
 <!-- Introductory Message -->
 <p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin-bottom: 20px;">
