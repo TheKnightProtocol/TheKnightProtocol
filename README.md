@@ -106,19 +106,19 @@
 
 
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Cybersecurity**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Task Management**
 
-- 🤝 I’m looking for help with **Task Management**
+- 🤝 I’m looking for help with **Real life projects **
 
-- 💬 Ask me about **Atoms, Equations and Spider-man**
+- 💬 Ask me about **Hacks, Sci - fi s and Sports**
 
 - 📫 How to reach me **workwithsankalp008@gmail.com**
 
-- ⚡ Fun fact **I like Physics**
+- ⚡ Fun fact **I know You Better than you **
 
 <!-- Introductory Message -->
 <p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin-bottom: 20px;">
