@@ -128,32 +128,7 @@
 <!-- Centered Action Buttons -->
 <div style="display: flex; justify-content: center; gap: 40px; margin: 20px 0;">
 
-  <!-- Star Button -->
-  <a href="https://github.com/GUARDIANSOFCODE/Leetcode" target="_blank" style="text-decoration: none; text-align: center;">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffcc00/star.png" alt="Star" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin: 5px 0;">⭐ Star</p>
-  </a>
-
-  <!-- Fork Button -->
-  <a href="https://github.com/GUARDIANSOFCODE/Leetcode/fork" target="_blank" style="text-decoration: none; text-align: center;">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/code-fork.png" alt="Fork" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="color: #ffffff; font-family: 'Trebuchet MS', sans-serif; margin: 5px 0;">🍴 Fork</p>
-  </a>
-
-  <!-- Watch Button -->
-  <a href="https://github.com/GUARDIANSOFCODE/Leetcode/subscription" target="_blank" style="text-decoration: none; text-align: center;">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/eye.png" alt="Watch" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="color: #ffffff; font-family: 'Trebuchet MS', sans-serif; margin: 5px 0;">👁️ Watch</p>
-  </a>
-
-  <!-- Issues Button -->
-  <a href="https://github.com/GUARDIANSOFCODE/Leetcode/issues" target="_blank" style="text-decoration: none; text-align: center;">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/task.png" alt="Issues" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="color: #ffffff; font-family: 'Trebuchet MS', sans-serif; margin: 5px 0;">🐞 Issues</p>
-  </a>
   
-</div>
-
 <!-- Closing Message -->
 <p style="text-align: center; font-size: 1.2em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin-top: 20px;">
   ❤️ Thank you for being part of this journey! Let's grow this project together! ❤️
