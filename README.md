@@ -47,7 +47,7 @@
 
  ## Stats📈
 <h1 align="center">Hi 👋, I'm  SANKALP</h1>
-<h3 align="center">A passionate Human exploring CYBERSECURITY and AI </h3>
+<h3 align="center">An Ambitious Guy exploring CYBERSECURITY and AI </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD4vNCFRuNQ5zMA/giphy.gif" width="200"/>
