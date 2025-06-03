@@ -46,8 +46,8 @@
 
 
  ## Stats📈
-<h1 align="center">Hi 👋, I'm  GUARDIANSOFCODE</h1>
-<h3 align="center">A passionate developer exploring new technologies and coding challenges</h3>
+<h1 align="center">Hi 👋, I'm  SANKALP</h1>
+<h3 align="center">A passionate Human exploring CYBERSECURITY and AI </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD4vNCFRuNQ5zMA/giphy.gif" width="200"/>
@@ -110,7 +110,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Task Management**
+- 👯 I’m looking to collaborate on **PyNexus**
 
 - 🤝 I’m looking for help with **Real life projects**
 
