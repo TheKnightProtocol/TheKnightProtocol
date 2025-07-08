@@ -61,8 +61,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/English-%F0%9F%87%AC%F0%9F%87%A7-blue?style=for-the-badge" alt="English" />
   <img src="https://img.shields.io/badge/Hindi-%F0%9F%87%AE%F0%9F%87%B3-orange?style=for-the-badge" alt="Hindi" />
-  <img src="https://img.shields.io/badge/German-%F0%9F%87%AB%F0%9F%87%B7-lightblue?style=for-the-badge" alt="German (Basic)" />
-  <img src="https://img.shields.io/badge/Chinese-%F0%9F%87%A8%F0%9F%87%B3-red?style=for-the-badge" alt="Chinese (Basic)" />
+  <img 
+
+<img 
+  src="https://img.shields.io/badge/German-%F0%9F%87%A9%F0%9F%87%AA-lightblue?style=for-the-badge" 
+  alt="German (Basic)" 
+/>
+
+
+
+ src="https://img.shields.io/badge/Chinese-%F0%9F%87%A8%F0%9F%87%B3-red?style=for-the-badge" alt="Chinese (Basic)" />
 </p>
 
 <p align="center">
