@@ -70,7 +70,7 @@
 
 
 <img
- src="https://img.shields.io/badge/Chinese-%F0%9F%87%A8%F0%9F%87%B3-red?style=for-the-badge" alt="Chinese (Basic)" />
+src="https://img.shields.io/badge/Chinese-%F0%9F%87%A8%F0%9F%87%B3-red?style=for-the-badge" alt="Chinese (Basic)" />
 </p>
 
 <p align="center">
