@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<p align='center'><a href='https://linktr.ee/NEWBY19'><img src='./images/banner.gif' height=300></a></p>
+<p align='center'><a href='https://linktr.ee/GuardiansofCode'><img src='./images/banner.gif' height=300></a></p>
 
 <br>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+GUARDIANSOFCODE;Hello!+I%27m+passionate+in+Web-Dev;Skilled+front-end+dev+with+UI+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+UIs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
