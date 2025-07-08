@@ -12,11 +12,6 @@
 </table>
 
 
-<p align="center">
-  <a href="https://linktr.ee/GuardiansofCode" target="_blank">
-    <img src="./images/banner.gif" alt="Hi, my name is Sankalp. Stay here as long as you want." height="300">
-  </a>
-</p>
 
 
 
