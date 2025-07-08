@@ -12,17 +12,12 @@
 </table>
 
 
-<!-- Centered Banner with Stylish Message -->
 <p align="center">
-  <a href="https://linktr.ee/GuardiansofCode" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="./images/banner.gif" 
-      alt="Hi, my name is Sankalp. Stay here as long as you want." 
-      height="300" 
-      style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);"
-    >
+  <a href="https://linktr.ee/GuardiansofCode" target="_blank">
+    <img src="./images/banner.gif" alt="Hi, my name is Sankalp. Stay here as long as you want." height="300">
   </a>
 </p>
+
 
 
 
