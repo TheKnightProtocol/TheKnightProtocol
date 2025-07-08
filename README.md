@@ -12,13 +12,20 @@
 </table>
 
 
+<!-- Centered Banner with Stylish Message -->
+<p align="center">
+  <a href="https://linktr.ee/GuardiansofCode" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="./images/banner.gif" 
+      alt="Hi, my name is Sankalp. Stay here as long as you want." 
+      height="300" 
+      style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);"
+    >
+  </a>
+</p>
 
 
 
-
-
-![A stylish banner with text "Hi My name is Sankalp. Stay Here As Long As You Want" featuring a minimalist design](https://github.com/user-attachments/assets/46b0b051-8231-4dc8-b031-d3552dd68191)
-<p align='center'><a href='https://linktr.ee/GuardiansofCode'><img src='./images/banner.gif' height=300></a></p>
 
 <br>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+GUARDIANSOFCODE;Hello!+I%27m+passionate+in+Web-Dev;Skilled+front-end+dev+with+UI+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+UIs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
