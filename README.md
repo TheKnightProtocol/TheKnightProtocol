@@ -11,6 +11,13 @@
   </tr>
 </table>
 
+
+
+
+
+
+
+![A stylish banner with text "Hi My name is Sankalp. Stay Here As Long As You Want" featuring a minimalist design](https://github.com/user-attachments/assets/46b0b051-8231-4dc8-b031-d3552dd68191)
 <p align='center'><a href='https://linktr.ee/GuardiansofCode'><img src='./images/banner.gif' height=300></a></p>
 
 <br>
