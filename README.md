@@ -22,7 +22,7 @@
 <br>
 <a href='https://holopin.io/@GuardiansOfCode'><img src='https://holopin.me/GuardiansOfCode'></a>
 <br>
-<h1 align="center"><p align="center"><img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" width="160" height="40" /><img src="./images/wave.gif" alt="Animated GIF" width="40" height="40"  /></p></h1>
+
 
 <br/>
 <br>
