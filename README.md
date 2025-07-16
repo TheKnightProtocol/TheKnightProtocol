@@ -2,7 +2,7 @@
 
 <table style="border: 3px solid #00ff00; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #000000, #0a0a0a); color: #ffffff; box-shadow: 0px 0px 15px rgba(0, 255, 0, 0.5); text-align: center; font-family: 'Trebuchet MS', sans-serif; font-size: 1.2em; width: 100%;">
   <tr>
-    <td valign="center">
+    <td valign="center">    
       🌟 "Aim for the MOON. If you miss, you MAY hit the STAR." 🌠
       <br>
       <br>
