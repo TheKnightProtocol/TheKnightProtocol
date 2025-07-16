@@ -104,10 +104,7 @@
 
 - ⚡ Fun fact **I am Batman**
 
----
-##Joke time
-  <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
----
+
 
 <!-- Introductory Message -->
 <p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin-bottom: 20px;">
@@ -122,6 +119,11 @@
 <p style="text-align: center; font-size: 1.2em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin-top: 20px;">
   ❤️ Thank you for being part of this journey! Let's grow this project together! ❤️
 </p>
+
+---
+## Joke time
+  <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
+---
 
 
 <div align="center"> 
