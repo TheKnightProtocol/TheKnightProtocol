@@ -12,6 +12,27 @@
 </table>
 
 
+
+
+
+[![MasterHead](https://i.imgur.com/HK2ytBw.gif)](https://github.com/GUARDIANSOFCODE)
+<h1 align="center">🌌 Hey, I'm GUARDIANSOFCODE 👨‍🚀</h1>
+<h3 align="center">Protecting the Universe, One Line of Code at a Time</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/YKya9bV.gif" width="700" style="border-radius: 12px;" alt="Futuristic Galaxy Banner">
+</p>
+
+<img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Coder Animation">
+
+
+
+
+
+
+
+
+
 <h2 align="center">⚡ Iron Man Mode: Activated ⚡</h2>
 
 <p align="center">
