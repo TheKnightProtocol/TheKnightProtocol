@@ -23,6 +23,11 @@
   <i>— Tony Stark</i>
 </p>
 
+<!-- Cinematic Futuristic Banner -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://i.imgur.com/HK2ytBw.gif" width="700" style="filter: grayscale(100%) blur(1px); border-radius: 10px;">
+  <img src="https://i.imgur.com/YKya9bV.gif" width="700" style="border-radius: 10px;">
+</div>
 
 
 
