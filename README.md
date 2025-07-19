@@ -45,6 +45,15 @@
 <br>
 
 
+
+
+<!-- GUARDIANSOFCODE | Cinematic GitHub Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/HK2ytBw.gif" width="700" style="filter: grayscale(100%) blur(1px); border-radius: 12px;" alt="Outer Space Grayscale">
+  <br><br>
+  <img src="https://i.imgur.com/YKya9bV.gif" width="700" style="border-radius: 12px;" alt="Cinematic Galaxy">
+</p>
+
               
   
 ## GitHub Activity Graph 📊
