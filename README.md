@@ -24,16 +24,6 @@
 
 
 
-<h2 align="center">⚡ Iron Man Mode: Activated ⚡</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/200.gif" width="700" alt="Iron Man Coding" style="border-radius:10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);" />
-</p>
-
-<p align="center">
-  <b>“Sometimes you gotta run before you can walk.”</b><br>
-  <i>— Tony Stark</i>
-</p>
 
 
 <br>
