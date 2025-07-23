@@ -1,17 +1,16 @@
-name: Update README for GuardiansOfCode
+name: Waka Readme
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes
+    - cron: "0 0 * * *"  # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
+    name: Update WakaTime stats in README
     runs-on: ubuntu-latest
-    name: Update GuardiansOfCode's repo README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@v1.0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: athul/waka-readme@v2.2.2
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
