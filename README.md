@@ -74,11 +74,6 @@
 
 ## My GitHub Achievements 🎉
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Guardiansofcode&theme=radical&row=1&column=4&margin-w=20&margin-h=20&no-frame=true&no-bg=true" alt="Guardiansofcode" />
-  </a>
-</p>
 
 ---
 <br/>
@@ -92,7 +87,7 @@
 
 <br>
 
----
+--
 
 
 
