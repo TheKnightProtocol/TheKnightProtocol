@@ -30,6 +30,9 @@
 </div>
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" alt="Code Matrix Effect GIF" width="700"/>
+</p>
 
 
 
