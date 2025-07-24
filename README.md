@@ -35,9 +35,6 @@
 <br/>
 <br>
 
-<img align="right" alt="Coding" width="400" src="images/programmer.gif">
-
-<p align="center"><img src="https://profile-counter.glitch.me/{GuardiansOfCode}/count.svg" alt="GuardiansOfCode :: Visitor's Count" /></p>
 
 <br>
 
