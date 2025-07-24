@@ -41,22 +41,7 @@
 
 <div align="center">
 
-  <!-- Tech Terminal GIF -->
-  <img 
-    src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" 
-    alt="Coding Terminal GIF" 
-    width="600"
-  />
-
-  <!-- Styled Quote Box -->
-  <pre style="
-    margin-top: 20px; 
-    font-family: 'Courier New', monospace; 
-    font-size: 1em; 
-    color: #00ff99; 
-    background-color: #0d0d0d; 
-    display: inline-block; 
-    padding: 20px; 
+  
     border: 2px solid #00ff99; 
     border-radius: 12px; 
     box-shadow: 0 0 12px rgba(0, 255, 153, 0.4);
