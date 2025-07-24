@@ -31,6 +31,9 @@
 
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="Coding Terminal GIF" width="600"/>
+</p>
 
 
 
