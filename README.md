@@ -119,7 +119,7 @@
 
 - 📫 How to reach me **workwithsankalp008@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact **I LOVE SPORTS**
 
 
 
