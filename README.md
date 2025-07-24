@@ -32,6 +32,27 @@
 
 
 
+<div align="center">
+
+  <!-- Techy Terminal GIF -->
+  <img 
+    src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" 
+    alt="Coding Terminal GIF" 
+    width="600"
+  />
+
+  <!-- ASCII‑style Quote Box -->
+  <pre style="margin-top: 20px; font-family: 'Courier New', monospace; font-size: 1em; line-height: 1.4;">
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│   🌟  "Aim for the MOON. If you miss, you MAY hit the STAR." 🌠         │
+│                                                                            │
+│        With that warm quote, let's explore my profile! 🚀                │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+  </pre>
+
+</div>
 
 
 
