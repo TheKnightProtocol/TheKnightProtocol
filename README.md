@@ -30,25 +30,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+GUARDIANSOFCODE;Hello!+I%27m+passionate+in+Cybersecurity;Skilled+AI+dev+with+ML+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+UIs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
 
 ---
-<br/>
-<br>
 
-
-<br>
-
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/GuardiansOfCode?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=GuardiansOfCode.GuardiansOfCode" width=100 height=30/>
-&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/GuardiansOfCode?label=Stars" alt="stars" width=100 height=30>
-
-<br>
-
-
-
-
----
-
-
-              
-  
 ## GitHub Activity Graph 📊
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuardiansOfCode&theme=chartreuse-dark" alt="GuardiansOfCode GitHub Activity Graph">
