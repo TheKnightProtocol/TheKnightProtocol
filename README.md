@@ -4,6 +4,49 @@
 
   
 
+<style>
+@keyframes glowBorder {
+  0% {
+    box-shadow: 0 0 8px #00ff99, 0 0 16px #00ff99, 0 0 24px #00ff99, 0 0 32px #00ff99;
+  }
+  50% {
+    box-shadow: 0 0 16px #00cc99, 0 0 24px #00cc99, 0 0 32px #00cc99, 0 0 40px #00cc99;
+  }
+  100% {
+    box-shadow: 0 0 8px #00ff99, 0 0 16px #00ff99, 0 0 24px #00ff99, 0 0 32px #00ff99;
+  }
+}
+.glow-box {
+  font-family: 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #ccffcc;
+  background-color: #0d0d0d;
+  padding: 30px;
+  border-radius: 20px;
+  border: 3px solid #00ff99;
+  animation: glowBorder 2.5s infinite;
+  display: inline-block;
+  letter-spacing: 0.5px;
+  line-height: 1.6;
+  text-align: center;
+  text-shadow: 0 0 6px #00ff99;
+}
+</style>
+
+<div align="center">
+  <div class="glow-box">
+    <pre style="margin: 0;">
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│   🌟  "Aim for the MOON. If you miss, you MAY hit the STAR." 🌠         │
+│                                                                            │
+│        With that warm quote, let's explore my profile! 🚀                │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+    </pre>
+  </div>
+</div>
 
 
 
