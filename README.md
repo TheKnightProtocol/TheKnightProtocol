@@ -30,9 +30,8 @@
 </div>
 
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="Coding Terminal GIF" width="600"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="AI Terminal Boot GIF" width="700"/>
 </p>
 
 
