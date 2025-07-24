@@ -2,7 +2,33 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 
-  
+<div align="center" style="
+  font-family: 'Fira Code', 'Courier New', monospace;
+  font-size: 1.15em;
+  color: #00ffcc;
+  background-color: #0d0d0d;
+  padding: 30px;
+  border-radius: 20px;
+  border: 2px solid #00ff99;
+  box-shadow: 0 0 20px rgba(0, 255, 153, 0.3), inset 0 0 10px rgba(0, 255, 153, 0.2);
+  width: fit-content;
+  display: inline-block;
+  line-height: 1.6;
+  letter-spacing: 1px;
+">
+
+<pre style="margin: 0; text-shadow: 0 0 6px #00ffaa;">
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│   🌟  "Aim for the MOON. If you miss, you MAY hit the STAR." 🌠         │
+│                                                                            │
+│        With that warm quote, let's explore my profile! 🚀                │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
+
 
 
 
