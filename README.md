@@ -32,10 +32,6 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" alt="AI Face Scan GIF" width="600"/>
-</p>
-
 
 
 
