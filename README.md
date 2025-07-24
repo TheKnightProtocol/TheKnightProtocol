@@ -32,31 +32,6 @@
 
 
 
-<div align="center">
-
-
-
-
-
-
-<div align="center">
-
-  
-    border: 2px solid #00ff99; 
-    border-radius: 12px; 
-    box-shadow: 0 0 12px rgba(0, 255, 153, 0.4);
-  ">
-┌────────────────────────────────────────────────────────────────────────────┐
-│                                                                            │
-│   🌟  "Aim for the MOON. If you miss, you MAY hit the STAR." 🌠         │
-│                                                                            │
-│        With that warm quote, let's explore my profile! 🚀                │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
-  </pre>
-
-</div>
-
 
 
 
