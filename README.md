@@ -86,6 +86,20 @@
   </a>
 </p>
 
+---
+<br/>
+<br>
+
+
+<br>
+
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/GuardiansOfCode?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=GuardiansOfCode.GuardiansOfCode" width=100 height=30/>
+&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/GuardiansOfCode?label=Stars" alt="stars" width=100 height=30>
+
+<br>
+---
+
+
 
 
 - 🔭 I’m currently working on **Myself**
@@ -101,26 +115,6 @@
 - 📫 How to reach me **workwithsankalp008@gmail.com**
 
 - ⚡ Fun fact **I LOVE SPORTS**
-
----
-
-
-<br/>
-<br>
-
-
-<br>
-
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/GuardiansOfCode?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=GuardiansOfCode.GuardiansOfCode" width=100 height=30/>
-&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/GuardiansOfCode?label=Stars" alt="stars" width=100 height=30>
-
-<br>
-
-
-
-
----
-
 
 
 <!-- Introductory Message -->
