@@ -58,8 +58,7 @@
 
 
  ## Stats📈
-<h1 align="center">Hi 👋, I'm  SANKALP</h1>
-<h3 align="center">An Ambitious Guy exploring CYBERSECURITY and AI </h3>
+
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GUARDIANSOFCODE&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true&v=3" alt="GUARDIANSOFCODE" /> 
