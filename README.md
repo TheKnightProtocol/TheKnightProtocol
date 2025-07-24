@@ -1,20 +1,27 @@
 <h1>¡Hola! , I AM GUARDIANSOFCODE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
   
-<table style="border: 2px solid #00ff99; border-radius: 16px; padding: 24px; background: linear-gradient(135deg, #0d0d0d, #1a1a1a); color: #ccffcc; box-shadow: 0 0 20px rgba(0, 255, 153, 0.4); text-align: center; font-family: 'Consolas', 'Courier New', monospace; font-size: 1.15em; width: 100%;">
+<!-- Techy Quote Box -->
+<table style="border: 2px solid #00ff99; border-radius: 16px; padding: 20px; background: linear-gradient(135deg, #0a0a0a, #1a1a1a); color: #ccffcc; box-shadow: 0 0 20px rgba(0, 255, 153, 0.4); text-align: center; font-family: 'Consolas', monospace; font-size: 1.1em; width: 100%;">
   <tr>
     <td>
-      <div style="margin-bottom: 10px;">
-        <span style="font-size: 1.5em;">⚙️ <span style="color: #00ff99;">System Log:</span> MOTIVATION.UPLINK ✅</span>
+      <div style="margin-bottom: 12px;">
+        🧠 <span style="color:#00ff99;">System Message</span> [<code>motivation.core</code>]: ✅
       </div>
       <div style="font-style: italic; color: #99ffcc;">
-        "Aim for the <span style='color: #66ff66;'>MOON</span>. If you miss, you might just hit a <span style='color: #33ffcc;'>STAR</span>."
+        "Aim for the <span style="color: #66ff66;">MOON</span>. If you miss, deploy your backup thrusters and land on a <span style="color: #33ffcc;">STAR</span>."
       </div>
-      <div style="margin-top: 16px; font-size: 1.1em; color: #b3ffb3;">
-        🚀 Booting up profile explorer... Welcome aboard, DevCadet!
+      <div style="margin-top: 18px; font-size: 1em; color: #b3ffb3;">
+        🚀 Initializing profile interface...
       </div>
     </td>
   </tr>
 </table>
+
+<!-- Typing SVG Animation -->
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I%27m+GUARDIANSOFCODE.;Cybersecurity+%7C+AI+%7C+ML+Explorer.;Full-stack+Dev+%7C+Modern+UI+Craftsman.;Open+Source+Contributor+%7C+GitHub+Power+User.;Code.+Secure.+Innovate.+Repeat." alt="Typing SVG" />
+</p>
 
 
 
