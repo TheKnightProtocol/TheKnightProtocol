@@ -33,6 +33,9 @@
 
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif" alt="Neural AI Brain GIF" width="700"/>
+</p>
 
 
 
