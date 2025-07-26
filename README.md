@@ -35,27 +35,6 @@
 <!-- Aesthetic Divider -->
 <div style="height: 4px; background: linear-gradient(90deg, #00f2fe, #4facfe, #00f2fe); border-radius: 10px; margin: 40px 0;"></div>
 
-<!-- Glowing Profile Card -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="
-    background: #1a1a1a;
-    border-radius: 20px;
-    padding: 30px;
-    width: 300px;
-    box-shadow: 0 0 20px #00f2fe, 0 0 40px #4facfe;
-    transition: transform 0.3s ease;
-    color: white;
-    text-align: center;
-    font-family: 'Segoe UI', sans-serif;
-  " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Avatar" style="width: 100%; border-radius: 12px;">
-    <h2 style="margin-top: 20px;">✨ Your Name</h2>
-    <p>🔥 AI Developer | 🚀 Tech Explorer</p>
-    <p style="color: #aaa;">Projects: <strong>12</strong> &nbsp;|&nbsp; Followers: <strong>1.2K</strong></p>
-  </div>
-</div>
-
-
 
 
 
