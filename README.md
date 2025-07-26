@@ -158,22 +158,22 @@
                
   <p align="center">
     <!-- Replace these as you earn new badges -->
-    <a href="https://leetcode.com/Guardiansofcode/" target="_blank">
+    <a href="https://leetcode.com/THEKNIGHTPROTOCOL/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February Badge" height="200" width="200" />
     </a>
-    <a href="https://leetcode.com/Guardiansofcode/" target="_blank">
+    <a href="https://leetcode.com/THEKNIGHTPROTOCOL/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March Badge" height="200" width="200" />
     </a>
-    <a href="https://leetcode.com/Guardiansofcode/" target="_blank">
+    <a href="https://leetcode.com/THEKNIGHTPROTOCOL/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 200 Problem Badge" height="200" width="200" />
     </a>
-    <a href="https://leetcode.com/Guardiansofcode/" target="_blank">
+    <a href="https://leetcode.com/THEKNIGHTPROTOCOL/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problem Badge" height="200" width="200" />
     </a>
   </p>
 
   <p align="center">
-    <img width="40%" src="https://leetcard.jacoblin.cool/GALAXYHACKERZ?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
+    <img width="40%" src="https://leetcard.jacoblin.cool/THEKNIGHTPROTOCOL?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
   </p>
 
  
