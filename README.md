@@ -173,7 +173,7 @@
   </p>
 
   <p align="center">
-    <img width="40%" src="https://leetcard.jacoblin.cool/Guardiansofcode?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
+    <img width="40%" src="https://leetcard.jacoblin.cool/GALAXYHACKERZ?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
   </p>
 
  
