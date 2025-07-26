@@ -1,4 +1,4 @@
-<h1>¡Hola! , I AM GALAXYHACKERZ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1>¡Hola! ,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 
