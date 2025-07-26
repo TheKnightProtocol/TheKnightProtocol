@@ -105,8 +105,8 @@
 
 <br>
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/GuardiansOfCode?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=GuardiansOfCode.GuardiansOfCode" width=100 height=30/>
-&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/GuardiansOfCode?label=Stars" alt="stars" width=100 height=30>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/GALAXYHACKERZ?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=GALAXYHACKERZ.GALAXYHACKERZ" width=100 height=30/>
+&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/GALAXYHACKERZ?label=Stars" alt="stars" width=100 height=30>
 
 <br>
 
@@ -153,7 +153,7 @@
 
 
 <div align="center"> 
-  <h2 align="center">🚀 Guardiansofcode’s LeetCode Quest 🧠</h2>  
+  <h2 align="center">🚀 GALAXYHACKERZ’s LeetCode Quest 🧠</h2>  
   <p align="center"><i>Coding one problem at a time — forging brilliance through bugs and breakthroughs.</i></p>
                
   <p align="center">
