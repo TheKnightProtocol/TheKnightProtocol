@@ -153,7 +153,7 @@
 
 
 <div align="center"> 
-  <h2 align="center">🚀 GALAXYHACKERZ’s LeetCode Quest 🧠</h2>  
+  <h2 align="center">🚀 THEKNIGHTPROTOCOL'S LeetCode Quest 🧠</h2>  
   <p align="center"><i>Coding one problem at a time — forging brilliance through bugs and breakthroughs.</i></p>
                
   <p align="center">
