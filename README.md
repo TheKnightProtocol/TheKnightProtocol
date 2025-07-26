@@ -44,7 +44,7 @@
 
 ## GitHub Activity Graph 📊
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuardiansOfCode&theme=chartreuse-dark" alt="GuardiansOfCode GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuardiansOfCode&theme=chartreuse-dark" alt="GALAXYHACKERZ GitHub Activity Graph">
 </p>
 
 
