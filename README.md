@@ -32,8 +32,7 @@
 
 
 
-<!-- Aesthetic Divider -->
-<div style="height: 4px; background: linear-gradient(90deg, #00f2fe, #4facfe, #00f2fe); border-radius: 10px; margin: 40px 0;"></div>
+
 
 
 
