@@ -176,7 +176,7 @@
     <img width="40%" src="https://leetcard.jacoblin.cool/Guardiansofcode?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
   </p>
 
-  <h3 align="center">👨‍💻 Connect with me: <a href="https://github.com/Guardiansofcode" target="_blank">GitHub | Guardiansofcode</a></h3>
+ 
 </div>
                      
  
