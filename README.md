@@ -1,3 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF00C8,50:7F00FF,100:00FFFF&section=header&text=🚀%20Welcome%20to%20My%20GitHub%20Realm!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Crafting+Code+with+🔥;Passionate+about+AI%2C+Cybersec+%26+Dev;Welcome+to+my+Digital+Workshop!">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
+</p>
 
 
 
