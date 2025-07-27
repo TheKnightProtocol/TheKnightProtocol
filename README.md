@@ -1,3 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:000000,100:434343&text=🦇%20TheKnightProtocol&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=In%20the%20shadows%2C%20I%20code.&descSize=20&descAlign=60&descAlignY=70&animation=fadeIn"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=I+am+not+just+a+coder...;I+am+the+watcher+of+logic.;I+am+vengeance...;I+am+TheKnightProtocol.">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="180"/>
+</p>
 
 
 
