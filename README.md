@@ -177,16 +177,6 @@
 
 
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28" />
-  <span style="color:#FEE101; font-family:'Courier New', monospace;">
-    ❯❯ Quiz Time ⚔️
-  </span>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28" />
-</h2>
-
-
-
 
 
 
