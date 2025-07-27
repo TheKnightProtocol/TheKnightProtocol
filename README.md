@@ -1,13 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:1c1c1c&text=🦇%20TheKnightProtocol&fontColor=FEE101&fontSize=38&desc=Shadow%20in%20Code%20—%20Protector%20of%20Logic&descSize=18&descAlign=60&descAlignY=70&animation=fadeIn"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FEE101&center=true&vCenter=true&width=500&lines=Vengeance+in+Code...;Knight+of+GitHub.;I+Am+TheKnightProtocol.">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
-</p>
-
 
 
 
