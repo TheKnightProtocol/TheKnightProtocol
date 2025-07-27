@@ -32,6 +32,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF3131,ff9f1c" width="100%" />
 </p>
 
+<!-- Matrix Glitch Theme -->
+<h2 align="center" style="color:#00FF41; font-family:'Courier New', monospace; text-shadow: 0 0 4px #00FF41;">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="30">
+  About Me
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="30">
+</h2>
+
+
+
 
 
 
