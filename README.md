@@ -148,12 +148,18 @@
   ❤️ Thank you for being part of this journey! Let's grow this project together! ❤️
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+</p>
+
 
 ## Quiz time 👻
   <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
----
+<p align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+</p>
+
 
 
 <div align="center"> 
