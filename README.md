@@ -96,15 +96,6 @@
 
 
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" />
-  <span style="font-family: 'Courier New', monospace; color:#FEE101; letter-spacing: 1px;">
-    ─[ GitHub Analytics Uplink ]─
-  </span>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" />
-</h2>
-
-
 
 
 
