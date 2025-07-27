@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:111111,100:1e1e1e&text=🦇%20KnightProtocol%20Booting%20...&fontColor=FEE101&fontSize=35&desc=You+Can’t+Debug+What+You+Can’t+See.&descSize=18&descAlign=60&descAlignY=75&animation=twinkling"/>
+
 
 
 
