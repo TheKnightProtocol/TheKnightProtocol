@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wave_bottom&height=200&color=0:000000,100:1f1f1f&text=🦇%20Knightwave%20Arrival&fontColor=FEE101&fontSize=36&desc=Monitoring+the+City...+One+Repo+at+a+Time&descSize=18&descAlign=55&descAlignY=75&animation=twinkling"/>
 
 
 
