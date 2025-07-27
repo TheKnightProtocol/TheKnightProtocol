@@ -1,3 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:240046,100:3c096c&text=Knightfall%20Initiated...&fontColor=ffffff&fontSize=36&animation=fadeIn"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Deploying+Gotham's+Failsafe...;Protocol+Locked.;Your+Watch+Begins.">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="180"/>
+</p>
 
 
 
