@@ -67,11 +67,7 @@
 
 
 
-<h2 align="center" style="color:#00FFFF; font-family:'Segoe UI', sans-serif;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-  Stats 📈
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h2>
+
 
 
 
