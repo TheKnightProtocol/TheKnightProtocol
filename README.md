@@ -1,5 +1,24 @@
 <h1>¡Hola! ,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
+
+
+<img src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb6949f38c680e662fcea8a65d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d303a4646303035432c35303a4236324246462c3130303a3134313332312673656374696f6e3d686561646572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=1800pxamp;color=0:FF005C,50:B62BFF,100:14132&amp;section=header" style="max-width: 100%;">
+<p align="center"><img src="https://camo.githubusercontent.com/965c45ce1632684c87748d484623f6528dffed6655d56562de68934c8b324536/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d626c7572266865696768743d33303026636f6c6f723d6772616469656e7426746578743d57656c636f6d253230746f2532304d79253230253230476974487562267465787442673d66616c73652664657363416c69676e3d38322664657363416c69676e593d383426666f6e74416c69676e593d353026666f6e74416c69676e3d353026616e696d6174696f6e3d7477696e6b6c696e67" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=blur&amp;height=300&amp;color=gradient&amp;text=Welcom%20to%20My%20%20GitHub&amp;textBg=false&amp;descAlign=82&amp;descAlignY=84&amp;fontAlignY=50&amp;fontAlign=50&amp;animation=twinkling" style="max-width: 100%;"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+<h1 align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=hiras1388&label=Profile%20views&color=0e75b6&style=flat" alt="hiras1388" /> </p>
+<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi <img alt="hello.gif" src="https://github.com/light-hat/light-hat/blob/main/assets/hello.gif?raw=true" width="35px" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">, I'm Maral 🌈<br>
+</h1>
+ 
+<h3 align="center"><img align="center" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage">  I really like music 🎧💜</h3>
+<p align="center"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="max-width: 100%;"></p>
+
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 
 <div align="center" style="
