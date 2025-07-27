@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:000000,100:1a1a1a&text=🦇%20TheKnightProtocol%20Activated%20🦇&fontColor=FEE101&fontSize=36&desc=Stealth+Mode+Online+%E2%9C%94&descSize=18&descAlign=55&descAlignY=75&animation=twinkling"/>
-
 
 
 
