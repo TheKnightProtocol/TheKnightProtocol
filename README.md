@@ -326,3 +326,29 @@
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | **AI/ML & Data** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-%230080C0.svg?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![Hadoop](https://img.shields.io/badge/hadoop-%23FFDC00.svg?style=for-the-badge&logo=apache-hadoop&logoColor=black) |
 | **Tools & Others** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Photoshop](https://img.shields.io/badge/photoshop-%2300C8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6600.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) |
+
+
+
+
+<!-- 🦇 Support TheKnightProtocol -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
+  Support TheKnightProtocol
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
+</h2>
+
+<p align="center" style="color:#FEE101; font-family: 'Fira Code', monospace;">
+  Justice runs on ☕ & ⚡ — power the mission below.
+</p>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FEE101?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-1F1F1F?style=for-the-badge&logo=ko-fi&logoColor=FEE101" alt="Ko-fi" />
+  </a>
+  <a href="https://paypal.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-2E2E2E?style=for-the-badge&logo=paypal&logoColor=FEE101" alt="PayPal" />
+  </a>
+</div>
