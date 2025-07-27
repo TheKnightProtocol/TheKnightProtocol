@@ -48,6 +48,11 @@
 
 
 
+<h2 align="center" style="color:#39FF14; font-family:'Orbitron', sans-serif; text-shadow: 0 0 6px #39FF14;">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="30" />
+  GitHub Activity Graph 📊
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="30" />
+</h2>
 
 
 
