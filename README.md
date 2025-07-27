@@ -1,3 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=shark&height=190&color=0:000000,100:202020&text=⚔️%20Code%20Crusader&fontColor=FEE101&fontSize=36&desc=Fighting%20Bugs%20Since%20the%20First%20Compile&descSize=18&descAlign=70&descAlignY=75&animation=fadeIn"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=FEE101&center=true&vCenter=true&width=500&lines=Dark+Code+is+Still+Code.;If+You+Can’t+Fix+It...+Refactor.;One+Bug+at+a+Time.">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="180"/>
+</p>
 
 
 
