@@ -5,7 +5,14 @@
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&pause=1000&color=FEE101&center=true&vCenter=true&width=510&lines=Tracking+Commits+in+the+Dark...;Watching+Issues+Silently.;KnightMode+%3D+%E2%9C%94+ENGAGED.">
+</p>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="190"/>
+</p>
 
 
 
