@@ -199,7 +199,6 @@
 
 
 
-## Quiz time 👻
   <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
 <p align="center">
