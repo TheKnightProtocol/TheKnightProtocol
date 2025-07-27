@@ -1,16 +1,5 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=🧊%20Hello%2C%20World!%20I’m%20Sankalp&fontSize=35&fontAlignY=70&desc=AI%20Engineer%20%7C%20Cybersecurity%20Nerd%20%7C%20Coder%20for%20Good&descSize=18&descAlign=60&descAlignY=90"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&weight=500&size=20&pause=1500&color=00CED1&center=true&vCenter=true&width=500&lines=Building+AI-Powered+Tools+💡;Cracking+LeetCode+One+Bug+at+a+Time;Inspired+by+Logic+and+Creativity">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="180"/>
-</p>
-
-
 
     
 
