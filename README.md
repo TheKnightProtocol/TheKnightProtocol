@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000000,100:0f0f0f&text=🕶️%20TheKnightProtocol%20Activated&fontColor=FEE101&fontSize=34&desc=Mission%3A%20Defend%20Gotham%20One%20Repo%20at%20a%20Time&descSize=18&descAlign=55&descAlignY=75&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000000,100:0f0f0f&text=🦇%20TheKnightProtocol%20Activated%20🦇&fontColor=FEE101&fontSize=34&desc=Mission%3A%20Defend%20Gotham%20One%20Repo%20at%20a%20Time&descSize=18&descAlign=55&descAlignY=75&animation=twinkling"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&pause=1000&color=FEE101&center=true&vCenter=true&width=510&lines=Tracking+Commits+in+the+Dark...;Watching+Issues+Silently.;KnightMode+%3D+%E2%9C%94️+ENGAGED.">
