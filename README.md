@@ -14,9 +14,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kothariji/kothariji/main/github-user-contribution-divider.svg" width="100%" />
-</p>
+
 
 
 
