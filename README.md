@@ -95,6 +95,11 @@
 
 
 
+<h2 align="center" style="color:#FFD700; font-family:'Segoe UI', sans-serif; text-shadow: 0 0 5px #FFD700;">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
+  GitHub Grid: Activity Matrix
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
+</h2>
 
 
 
