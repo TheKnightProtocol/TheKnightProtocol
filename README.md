@@ -47,6 +47,11 @@
 
 
 
+<h2 align="center" style="color:#00CED1; font-family:'Segoe UI', sans-serif;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  GitHub Activity Graph 📊
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+</h2>
 
 
 
