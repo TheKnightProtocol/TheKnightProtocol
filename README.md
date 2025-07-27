@@ -1,3 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0a,100:1a1a1a&text=%F0%9F%96%87%EF%B8%8F%20Bat-Signal%20Detected&fontColor=FEE101&fontSize=35&desc=TheKnightProtocol%20Has%20Entered%20the%20Network&descSize=18&descAlign=60&descAlignY=70&animation=fadeIn"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FEE101&center=true&vCenter=true&width=480&lines=Operating+in+Silence...;Watching+Every+Line+of+Code.;Protector+of+Clean+Commits.">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKP0dFU9pJ5gVtC/giphy.gif" width="190"/>
+</p>
 
 
 
