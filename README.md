@@ -172,15 +172,6 @@
 
 
 
-<h2 align="center">
-  <span style="color:#FEE101; font-family:'Segoe UI', sans-serif; font-size: 22px;">
-    <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="30" />
-    <h2 align="center">
-  <span style="color:#FEE101; font-family:'Segoe UI', sans-serif; font-size: 22px;">
-    <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="30" />
-    ⚠️ QUIZ MODE ACTIVATED ⚠️
-    <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="30" />
-  </span>
 
 
 
