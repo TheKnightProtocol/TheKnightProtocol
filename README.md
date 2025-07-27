@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:000000,100:2a2a2a&text=🦇%20TheKnightProtocol%20Activated%20🦇&fontColor=FEE101&fontSize=36&desc=Protecting+the+Night+One+Commit+at+a+Time&descSize=18&descAlign=55&descAlignY=75&animation=twinkling"/>
 
 
 
