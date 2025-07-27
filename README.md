@@ -66,14 +66,6 @@
 
 
 
-<h2 align="center" style="color:#39FF14; font-family:'Courier New', monospace; text-shadow: 0 0 4px #39FF14;">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="30">
-  Stats 📈
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="30">
-</h2>
-
-
-
 
 
 
