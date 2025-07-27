@@ -32,13 +32,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FF3131,ff9f1c" width="100%" />
 </p>
 
- <!-- Knight Themed About Me -->
-<h2 align="center" style="color:#FEE101; font-family:'Segoe UI', sans-serif;">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="35">
-  About Me
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="35">
-</h2>
-  
 
 
 
