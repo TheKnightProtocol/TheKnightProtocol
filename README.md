@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0c0c0c,100:222222&text=🦇%20TheKnightProtocol%20Online&fontColor=FEE101&fontSize=36&desc=Mission%3A%20Monitor%20Every%20Byte%20in%20Gotham&descSize=18&descAlign=60&descAlignY=75&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=wave_bottom&height=200&color=0:000000,100:1a1a1a&text=🦇%20TheKnightProtocol%20Initiated&fontColor=FEE101&fontSize=36&desc=Shadows+Don’t+Commit+Twice...+But+I+Do&descSize=18&descAlign=60&descAlignY=75&animation=twinkling"/>
+
 
 
 
