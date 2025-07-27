@@ -1,18 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&height=180&color=0:0d0d0d,100:1c1c1c&text=The%20Code%20Crusader&fontColor=FFFFFF&fontSize=34&animation=twinkling&fontAlignY=40"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=⚡+Black+Terminal+Mindset;🧠+Dark+Mode+Only;💀+No+Errors+Escape+Me">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="160"/>
-</p>
-
-
-
-
-
-    
 
 
 
