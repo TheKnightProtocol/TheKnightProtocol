@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&pause=1000&color=FEE101&center=true&vCenter=true&width=510&lines=Tracking+Commits+in+the+Dark...;Watching+Issues+Silently.;KnightMode+%3D+%E2%9C%94+ENGAGED.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&pause=1000&color=FEE101&center=true&vCenter=true&width=910&lines=Tracking+Commits+in+the+Dark...;Watching+Issues+Silently.;KnightMode+%3D+%E2%9C%94+ENGAGED.">
 </p>
 
 
