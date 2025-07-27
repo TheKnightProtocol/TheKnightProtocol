@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:000000,100:2a2a2a&text=🦇%20DarkPanel%20Access%20Granted&fontColor=FEE101&fontSize=34&desc=Authorization+Level%3A+TheKnightProtocol&descSize=18&descAlign=55&descAlignY=75&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=wave_bottom&height=200&color=0:000000,100:1f1f1f&text=🦇%20Knightwave%20Arrival&fontColor=FEE101&fontSize=36&desc=Monitoring+the+City...+One+Repo+at+a+Time&descSize=18&descAlign=55&descAlignY=75&animation=twinkling"/>
 
 
 
