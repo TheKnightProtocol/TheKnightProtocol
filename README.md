@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=point&height=200&color=0:000000,100:1a1a1a&text=🦇%20KnightPoint%20Protocol&fontColor=FEE101&fontSize=36&desc=Precision+Code%2C+Delivered+in+Silence&descSize=18&descAlign=55&descAlignY=75&animation=twinkling"/>
 
 
 
