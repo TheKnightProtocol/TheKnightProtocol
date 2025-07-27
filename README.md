@@ -62,13 +62,16 @@
   <img src="https://media.giphy.com/media/3o7TKx5sE1Is2R4pFe/giphy.gif" width="35">
 </h2>
 
-<p align="center" style="font-family:'Segoe UI', sans-serif; color:#B2FFFF; font-size:16px; max-width:700px; margin:auto;">
-  🚀 CS Engineer on a mission to build, break, and innovate. <br>
-  🧠 Passionate about AI, Cybersecurity & turning coffee into code. <br>
-  💼 Open to collabs, side-projects & world domination (via GitHub). <br>
-  🎯 Currently upgrading skills, one commit at a time. <br>
-  🕶️ Motto: <i>"Code in silence, let your repo scream."</i>
-</p>
+
+
+
+
+
+
+
+
+
+
 
 
 
