@@ -2,7 +2,6 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="max-width: 100%;"></p>
 
 
 <p align="center">
