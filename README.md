@@ -50,6 +50,17 @@
 
 
 
+
+<!-- Neon Glow Theme -->
+<h2 align="center" style="color:#00FFFF; font-family:'Orbitron', sans-serif;">
+  <img src="https://media.giphy.com/media/3o7TKx5sE1Is2R4pFe/giphy.gif" width="35">
+  About Me
+  <img src="https://media.giphy.com/media/3o7TKx5sE1Is2R4pFe/giphy.gif" width="35">
+</h2>
+
+
+
+
 <h2 align="center" style="color:#00CED1; font-family:'Segoe UI', sans-serif;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
   GitHub Activity Graph 
