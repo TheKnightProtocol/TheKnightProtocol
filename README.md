@@ -96,12 +96,6 @@
 
 
 
-<h2 align="center" style="color:#FEE101; font-family:'Fira Code', monospace;">
-  🦇🟨 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
-  THE KNIGHT PROTOCOL: GITHUB ANALYTICS
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" /> 🟨🦇
-</h2>
-
 
 
 
