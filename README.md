@@ -94,6 +94,13 @@
 
 
 
+<h2 align="center">
+  <span style="color:#FEE101; font-family:'Orbitron', sans-serif; font-size: 24px; letter-spacing: 2px;">
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="26" />
+    KNIGHT PROTOCOL: GITHUB STATS
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="26" />
+  </span>
+</h2>
 
 
 
