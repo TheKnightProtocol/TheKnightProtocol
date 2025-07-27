@@ -1,3 +1,20 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF00C8,50:7F00FF,100:00FFFF&section=header&text=🦇%20TheKnightProtocol&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=I+Am+Vengeance%2C+I+Am+Code.;Defender+of+Logic+in+the+Shadows.;Welcome+to+TheKnightProtocol.">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="190"/>
+</p>
+
+
+
+
+
+
+
+
 
 
 
