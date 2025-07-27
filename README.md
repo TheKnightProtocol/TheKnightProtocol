@@ -329,3 +329,57 @@
 
 
 
+<!-- 🦇 Support TheKnightProtocol -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
+  Support TheKnightProtocol
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
+</h2>
+
+<p align="center" style="color:#FEE101; font-family:'Fira Code', monospace; font-size:14px;">
+  Fuel the shadows. Fund the code.
+</p>
+
+<div align="center">
+  <a href="https://paypal.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-1a1a1a?style=for-the-badge&logo=paypal&logoColor=FEE101" alt="PayPal" />
+  </a>
+  <!-- Optional: Add Bitcoin support below -->
+  <!--
+  <a href="bitcoin:yourBitcoinAddress" target="_blank">
+    <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin" />
+  </a>
+  -->
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
