@@ -1,14 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&height=180&color=0:141e30,100:243b55&text=⚡TheKnightProtocol&fontColor=ffffff&fontSize=40&animation=twinkling&fontAlignY=35"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0FFFD7&center=true&vCenter=true&width=500&lines=Decrypting+Ideas+into+Reality+🛠️;Let’s+Build+the+Future+Together+🌌;Join+the+Mission...%F0%9F%9A%80">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="160"/>
-</p>
-
-
 
 
 
