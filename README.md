@@ -14,7 +14,9 @@
 </p>
 
 
-<p align="center"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kothariji/kothariji/main/github-user-contribution-divider.svg" width="100%" />
+</p>
 
 
 
