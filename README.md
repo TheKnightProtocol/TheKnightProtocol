@@ -16,9 +16,7 @@
 
 
 
-<p align="center">
-  <img src="https://i.imgur.com/U3vTGjX.gif" width="100%" />
-</p>
+
 
 
 
