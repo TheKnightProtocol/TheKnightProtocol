@@ -98,6 +98,23 @@
 
 
 
+
+
+
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" />
+  <span style="color:#FEE101; font-family: 'Courier New', monospace;">
+    🧠 GitHub Intelligence Dashboard 🧠
+  </span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" />
+</h2>
+
+
+
+
+
+
 ## My GitHub Achievements 🎉
 
 
