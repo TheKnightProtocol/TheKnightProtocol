@@ -1,4 +1,4 @@
-<h1>¡Hola! ,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=🧊%20Hello%2C%20World!%20I’m%20Sankalp&fontSize=35&fontAlignY=70&desc=AI%20Engineer%20%7C%20Cybersecurity%20Nerd%20%7C%20Coder%20for%20Good&descSize=18&descAlign=60&descAlignY=90"/>
 
