@@ -329,26 +329,3 @@
 
 
 
-
-<!-- 🦇 Support TheKnightProtocol -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
-  Support TheKnightProtocol
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
-</h2>
-
-<p align="center" style="color:#FEE101; font-family: 'Fira Code', monospace;">
-  Justice runs on ☕ & ⚡ — power the mission below.
-</p>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FEE101?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-1F1F1F?style=for-the-badge&logo=ko-fi&logoColor=FEE101" alt="Ko-fi" />
-  </a>
-  <a href="https://paypal.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-2E2E2E?style=for-the-badge&logo=paypal&logoColor=FEE101" alt="PayPal" />
-  </a>
-</div>
