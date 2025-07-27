@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:0d0d0d,100:1f1f1f&text=🦇%20TheKnightProtocol%20Initiated%20🦇&fontColor=FEE101&fontSize=36&desc=Mission+Logged%3A+No+Bug+Survives+Tonight&descSize=18&descAlign=50&descAlignY=75&animation=twinkling"/>
 
 
 
