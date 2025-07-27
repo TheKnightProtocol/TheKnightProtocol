@@ -66,6 +66,11 @@
 
 
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35">
+  <span style="color:#FEE101;">Stats 📈</span>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35">
+</h2>
 
 
 
