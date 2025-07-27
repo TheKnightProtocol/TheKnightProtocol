@@ -15,6 +15,9 @@
 
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8F00FF,00E0FF" width="100%" />
+</p>
 
 
 
