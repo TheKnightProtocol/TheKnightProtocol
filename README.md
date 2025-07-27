@@ -95,6 +95,13 @@
 
 
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="38" />
+  <span style="color:#00ffe1; font-family: 'Segoe UI', sans-serif; text-shadow: 0 0 5px #00ffe1;">
+    ⚡ GitHub Analytics Core ⚡
+  </span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="38" />
+</h2>
 
 
 
