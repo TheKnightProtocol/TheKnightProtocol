@@ -257,21 +257,6 @@
 
 
 
-<p align="center">
-  <!-- GitHub Stats Cards -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theknightprotocol&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Top Languages" /> 
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=theknightprotocol&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=theknightprotocol&theme=neon&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- Contribution Heatmap (CodeChef Style) -->
-  <img width="98%" src="https://ghchart.rshah.org/theknightprotocol" alt="GitHub Contributions Heatmap" style="border-radius: 5px; margin-top: 10px;" />
-</p>
-
-
-
-
 
 
 
