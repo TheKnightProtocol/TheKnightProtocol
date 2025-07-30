@@ -161,9 +161,8 @@
     src="https://github-profile-trophy.vercel.app/?username=THEKNIGHTPROTOCOL&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=10"
     alt="GitHub Trophies"
   />
-</p>
-
-
+</p> 
+  
 
 <p align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
