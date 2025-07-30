@@ -1,3 +1,21 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:000000,100:1a1a1a&text=🦇%20TheKnightProtocol%20Activated%20🦇&fontColor=FEE101&fontSize=36&desc=+No+Bug+Survives+Tonight+%E2%9C%94&descSize=30&descAlign=55&descAlignY=75&animation=twinkling"/>
 
 
@@ -107,7 +125,7 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35">
 </h2>
 
-
+   
 
 
 <p align="center">
