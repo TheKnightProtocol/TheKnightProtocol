@@ -179,15 +179,6 @@
 </p>
 
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=THEKNIGHTPROTOCOL&theme=onedark&no-frame=true&no-bg=false&margin-w=20&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
-
 
 
 
