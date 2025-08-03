@@ -305,6 +305,19 @@
 
 
 
+<!-- Tech Stack Terminal Style -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+  <code style="color:#39ff14; font-size: 28px;">Tech Arsenal</code>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,rust,docker,kubernetes,aws" />
+</div>
+
+
+
 <!-- Tech Stack Cyberpunk Style -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="40">
