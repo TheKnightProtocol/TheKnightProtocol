@@ -169,6 +169,12 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" /> 🟨🦇
 </h2>
 
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=THEKNIGHTPROTOCOL&theme=dracula&no-frame=false&no-bg=false&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
 
 
 
