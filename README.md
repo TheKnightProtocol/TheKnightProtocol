@@ -308,7 +308,7 @@
 <!-- Tech Stack Terminal Style -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
-  <code style="color:#39ff14; font-size: 28px;">Tech Arsenal</code>
+  <code style="color:#39ff14; font-size: 28px;">Connect Me</code>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
 </h2>
 
