@@ -171,12 +171,7 @@
 
 
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=THEKNIGHTPROTOCOL&theme=dracula&no-frame=true&no-bg=false&margin-w=25&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
+
 
 
 <p align="center">
