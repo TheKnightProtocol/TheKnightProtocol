@@ -324,7 +324,6 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
 <!-- Centered Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sankalp-sharma-6342532b4" target="_blank">
