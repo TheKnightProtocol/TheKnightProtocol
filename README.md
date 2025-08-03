@@ -169,6 +169,23 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" /> 🟨🦇
 </h2>
 
+<h2 align="center">
+  ✨<span style="color:#FFA500; text-shadow: 0 0 5px #FFD700;">𝙂𝙞𝙩𝙃𝙪𝙗 𝘼𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨</span>✨
+</h2>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=THEKNIGHTPROTOCOL&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+
+
+
+
+
+
+
 
 
 
