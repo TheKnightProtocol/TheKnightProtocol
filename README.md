@@ -303,18 +303,6 @@
                      
   
 
-<!-- Tech Stack with Simulated Glow -->
-<h2 align="center" style="color:#00FFFF; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
-  <strong>Tech Arsenal</strong>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
-</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flutter,nodejs" />
-</div>
-
-
 
 
 
