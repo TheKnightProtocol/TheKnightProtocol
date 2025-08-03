@@ -312,9 +312,6 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
 </h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,rust,docker,kubernetes,aws" />
-</div>
 
 
 
