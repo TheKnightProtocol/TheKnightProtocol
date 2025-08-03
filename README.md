@@ -178,6 +178,12 @@
 </p>
 
 
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=THEKNIGHTPROTOCOL&theme=onedark&no-frame=false&no-bg=false&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
 
 
 
