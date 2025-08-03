@@ -305,6 +305,16 @@
 
 
 
+<!-- Tech Stack Cyberpunk Style -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="40">
+  <span style="color:#ff00ff; font-size:30px; font-weight:bold;">🚀 Tech Arsenal 🚀</span>
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="40">
+</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,figma,git,github,linux" />
+</div>
 
 
 
