@@ -169,6 +169,17 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" /> 🟨🦇
 </h2>
 
+<h2 align="center" style="color:#FFD700; font-family:monospace;">
+  🏆 GitHub Trophy Cabinet 🏆
+</h2>
+<p align="center" style="border: 2px dashed #FEE440; padding: 10px; border-radius: 10px;">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=THEKNIGHTPROTOCOL&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+
 
 
 
