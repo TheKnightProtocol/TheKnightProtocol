@@ -206,72 +206,11 @@
 
 
 
----
-
-## **Version 2 — Terminal-Style Bio**
-
-> whoami
-Sankalp Sharma
-
-> work --on "Myself"
-> learn --topic "Cybersecurity"
-> collaborate --with "PyNexus"
-> open-to "Real-life projects"
-
-> contact --email "workwithsankalp008@gmail.com"
-> fun-fact "I love sports"
-
-💬 Ask me about: Hacks | Sci-Fi | Sports
 
 
 
 
----
-
-
-
-
-
-
-
-> whoami
-Sankalp Sharma
-
-> work --on "Myself"
-> learn --topic "Cybersecurity"
-> collaborate --with "PyNexus"
-> open-to "Real-life projects"
-
-> contact --email "workwithsankalp008@gmail.com"
-> fun-fact "I love sports"
-
-💬 Ask me about: Hacks | Sci-Fi | Sports
-
-> exit
-Session closed.<span class="blinking-cursor">█</span>
-
-
-
----
-
-<style>
-.blinking-cursor {
-  font-weight: bold;
-  font-size: 1rem;
-  color: #2ecc71;
-  animation: blink 1s step-end infinite;
-}
-
-@keyframes blink {
-  from, to { color: transparent; }
-  50% { color: #2ecc71; }
-}
-</style>
-
-
-
----
-          
+  
 
 
 
