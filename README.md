@@ -138,7 +138,7 @@
 
 <!--START_SECTION:waka-->
 
-### 🕒 WakaTime Coding Stats
+<!-- 🕒 WakaTime Coding Stats-->
   
 
 
