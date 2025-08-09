@@ -205,6 +205,37 @@
 <br>
 
 
+
+---
+
+## **Version 2 — Terminal-Style Bio**
+```md
+> whoami
+Sankalp Sharma
+
+> work --on "Myself"
+> learn --topic "Cybersecurity"
+> collaborate --with "PyNexus"
+> open-to "Real-life projects"
+
+> contact --email "workwithsankalp008@gmail.com"
+> fun-fact "I love sports"
+
+💬 Ask me about: Hacks | Sci-Fi | Sports
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
 <p align="center">
   🔭 <b>Working on:</b> Myself <br>
   🌱 <b>Learning:</b> Cybersecurity <br>
