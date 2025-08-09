@@ -83,8 +83,6 @@
 
 
 <p align="center" style="font-size:16px; color:#FEE101;">
-  You won't see me coming... <br>
-  Just the code working.
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=👋+Hey+there!+I'm+Sankalp;🔒+Cybersecurity+Learner;💻+Tech+Explorer;🤝+Open+to+Collabs" alt="Typing SVG" />
