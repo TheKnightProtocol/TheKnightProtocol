@@ -206,6 +206,20 @@
 
 
 
+---
+
+| Field         | Details                               |
+|--------------|---------------------------------------|
+| Working on   | Myself                                |
+| Learning     | Cybersecurity                         |
+| Collaborating| PyNexus                               |
+| Open to      | Real-life projects                    |
+| Ask me about | Hacks, Sci-Fi, Sports                 |
+| Email        | workwithsankalp008@gmail.com          |
+| Fun fact     | I love sports                         |
+
+
+---
 
 
 
