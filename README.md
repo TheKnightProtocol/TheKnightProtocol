@@ -252,7 +252,25 @@ Session closed.<span class="blinking-cursor">█</span>
 
 
 
+---
 
+<style>
+.blinking-cursor {
+  font-weight: bold;
+  font-size: 1rem;
+  color: #2ecc71;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  from, to { color: transparent; }
+  50% { color: #2ecc71; }
+}
+</style>
+
+
+
+---
           
 
 
