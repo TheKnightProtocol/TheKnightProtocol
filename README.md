@@ -91,7 +91,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=About+Me;Cybersecurity+%26+Tech+Enthusiast;Learning+Every+Single+Day;Passionate+About+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=About+Me;👋+Hey+there!+I'm+Sankalp;🔒+Cybersecurity+Learner;💻+Tech+Explorer;🤝+Open+to+Collabs"Cybersecurity+%26+Tech+Enthusiast;Learning+Every+Single+Day;Passionate+About+Real-World+Projects" alt="Typing SVG" />
 </h2>
 
 
