@@ -218,20 +218,6 @@
 
 
 
-- 🔭 I’m currently working on **Myself**
-
-- 🌱 I’m currently learning **Cybersecurity**
-
-- 👯 I’m looking to collaborate on **PyNexus**
-
-- 🤝 I’m looking for help with **Real life projects**
-
-- 💬 Ask me about **Hacks, Sci - fi and Sports**
-
-- 📫 How to reach me **workwithsankalp008@gmail.com**
-     
-- ⚡ Fun fact **I LOVE SPORTS**
-
 
 <!-- Introductory Message -->
 <p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif; margin-bottom: 20px;">
