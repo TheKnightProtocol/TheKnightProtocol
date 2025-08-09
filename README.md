@@ -205,6 +205,15 @@
 <br>
 
 
+<p align="center">
+  🔭 <b>Working on:</b> Myself <br>
+  🌱 <b>Learning:</b> Cybersecurity <br>
+  👯 <b>Collaborating on:</b> PyNexus <br>
+  🤝 <b>Open to:</b> Real-life projects <br>
+  💬 <b>Ask me about:</b> Hacks, Sci-Fi, Sports <br>
+  📫 <b>Email:</b> workwithsankalp008@gmail.com <br>
+  ⚡ <b>Fun fact:</b> I love sports
+</p>
 
 
 
