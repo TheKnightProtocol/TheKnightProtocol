@@ -175,7 +175,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=THEKNIGHTPROTOCOL&theme=monokai&no-frame=true&no-bg=false&margin-w=25&row=1"
+    src="https://github-profile-trophy.vercel.app/?username=DatumLab&theme=monokai&no-frame=true&no-bg=false&margin-w=25&row=1"
     alt="GitHub Trophies"
   />
 </p>
