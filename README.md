@@ -270,7 +270,7 @@
     <a href="https://leetcode.com/DatumLab/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February Badge" height="200" width="200" />
     </a>
-    <a href="https://leetcode.com/THEKNIGHTPROTOCOL/" target="_blank">
+    <a href="https://leetcode.com/DatumLab/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March Badge" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/DatumLab/" target="_blank">
@@ -282,7 +282,7 @@
   </p>
 
   <p align="center">
-    <img width="40%" src="https://leetcard.jacoblin.cool/DatumLab?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
+    <img width="40%" src="https://leetcard.jacoblin.cool/THEKNIGHTPROTOCOL?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
   </p>
 
  
