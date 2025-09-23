@@ -355,7 +355,7 @@
 <!-- 🦇 Support TheKnightProtocol -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
-  Support TheKnightProtocol
+  Support DatumLab
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
 </h2>
 
