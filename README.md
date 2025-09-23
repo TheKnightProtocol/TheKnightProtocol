@@ -16,7 +16,7 @@
  
  
  
- <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:000000,100:1a1a1a&text=🦇%20DatumLab%20Activated%20🦇&fontColor=FEE101&fontSize=36&desc=+No+Bug+Survives+Tonight+%E2%9C%94&descSize=30&descAlign=55&descAlignY=75&animation=twinkling"/>
+ <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:000000,100:1a1a1a&text=🦇%20TheKnightProtocol%20Activated%20🦇&fontColor=FEE101&fontSize=36&desc=+No+Bug+Survives+Tonight+%E2%9C%94&descSize=30&descAlign=55&descAlignY=75&animation=twinkling"/>
 
 
 
@@ -55,7 +55,7 @@
 
 
 <br>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+THEKNIGHTPROTOCOL;I%27m+passionate+in+Cybersecurity;Skilled+AI+dev+with+ML+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+techs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+TheKnightProtocol;I%27m+passionate+in+Cybersecurity;Skilled+AI+dev+with+ML+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+techs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
 
 
 <p align="center">
@@ -112,7 +112,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatumLab&theme=chartreuse-dark" alt="DatumLab" GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatumLab&theme=chartreuse-dark" alt="TheKnightProtocol" GitHub Activity Graph">
 </p>
 
 
@@ -128,9 +128,9 @@
  
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DatumLab&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true&v=3" alt="DatumLab" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DatumLab&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="DatumLab" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DatumLab&theme=neon&hide_border=true" alt="DatumLab" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DatumLab&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true&v=3" alt="TheKnightProtocol" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheKnightProtocol&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="TheKnightProtocol" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheKnightProtocol&theme=neon&hide_border=true" alt="TheKnightProtocol" />
 </p>
 
 
@@ -175,7 +175,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=DatumLab&theme=monokai&no-frame=true&no-bg=false&margin-w=25&row=1"
+    src="https://github-profile-trophy.vercel.app/?username=TheKnightProtocol&theme=monokai&no-frame=true&no-bg=false&margin-w=25&row=1"
     alt="GitHub Trophies"
   />
 </p>
@@ -267,16 +267,16 @@
                
   <p align="center">
     <!-- Replace these as you earn new badges -->
-    <a href="https://leetcode.com/DatumLab/" target="_blank">
+    <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February Badge" height="200" width="200" />
     </a>
-    <a href="https://leetcode.com/DatumLab/" target="_blank">
+    <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March Badge" height="200" width="200" />
     </a>
-    <a href="https://leetcode.com/DatumLab/" target="_blank">
+    <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 200 Problem Badge" height="200" width="200" />
     </a>
-    <a href="https://leetcode.com/DatumLab/" target="_blank">
+    <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problem Badge" height="200" width="200" />
     </a>
   </p>
@@ -355,7 +355,7 @@
 <!-- 🦇 Support TheKnightProtocol -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
-  Support DatumLab
+  Support TheKnightProtocol
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
 </h2>
 
