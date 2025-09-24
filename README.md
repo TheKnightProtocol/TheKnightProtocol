@@ -112,7 +112,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatumLab&theme=chartreuse-dark" alt="TheKnightProtocol" GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheKnightProtocol&theme=chartreuse-dark" alt="TheKnightProtocol" GitHub Activity Graph">
 </p>
 
 
