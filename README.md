@@ -538,28 +538,7 @@
   />
 
 </div>
-
-
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1C1C1C;">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:2F4F4F&height=55&section=header&text=Thank%20You%20for%20Taking%20the%20Time%20to%20Visit%20My%20Profile&fontSize=22&fontColor=ffffff"
-    alt="Thank You for Taking the Time to Visit My Profile"
-    width="100%"
-  />
-
-</div>
-
-
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1C1C1C;">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:2F4F4F&height=55&section=header&text=Thank%20You%20for%20Visiting&fontSize=22&fontColor=ffffff"
-    alt="Thank You for Visiting"
-    width="100%"
-  />
-
-</div>
+>
 
 
 
