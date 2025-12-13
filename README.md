@@ -494,13 +494,4 @@
 
 
 
-<div align="center" style="font-family: 'Times New Roman', Times, serif; color: #1C1C1C ;">
-
-  <img 
-    src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg"
-    alt="Thanks for visiting my profile"
-    width="100%"
-    height="35"
-  />
-
  
