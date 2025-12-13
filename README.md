@@ -493,35 +493,6 @@
 </table>
 
 
-<div align="center">
-
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
-<br />
-
-
-<div align="center">
-    
-<div align="center">
-
-  <img 
-    src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg"
-    alt="Thanks for visiting my profile"
-    width="100%"
-    height="35"
-  />
-
-  <br><br>
-
-  <h3>🙏 Thanks for stopping by!</h3>
-
-  <p>
-    Feel free to explore my repositories, star what you like, and connect with me.
-    <br>
-    Always building, always learning 🚀
-  </p>
-
-</div>
-
 
 
 
