@@ -494,7 +494,7 @@
 
 
 
-<div align="center" style="font-family: 'Times New Roman', Times, serif; color: #2F4F4F;">
+<div align="center" style="font-family: 'Times New Roman', Times, serif; color: #1C1C1C ;">
 
   <img 
     src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg"
@@ -503,20 +503,4 @@
     height="35"
   />
 
-  <br><br>
-
-  <h3 style="color:#1C1C1C; font-weight:600;">
-    🙏 Thanks for stopping by!
-  </h3>
-
-  <p style="color:#3A3A3A; font-size:16px;">
-    Feel free to explore my repositories, star what you like, and connect with me.
-    <br>
-    Always building, always learning 🚀
-  </p>
-
-</div>
-
-
-
-
+ 
