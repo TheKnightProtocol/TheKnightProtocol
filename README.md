@@ -494,11 +494,11 @@
 
 
 
- <div align="center" style="font-family: 'Times New Roman', Times, serif; color:#1C1C1C;">
+<div align="center" style="font-family: 'Times New Roman', Times, serif; color:#1C1C1C;">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:2F4F4F&height=55&section=header&text=Professional%20GitHub%20Portfolio&fontSize=22&fontColor=ffffff"
-    alt="Professional GitHub Portfolio Banner"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:2F4F4F&height=55&section=header&text=Thank%20You%20for%20Visiting%20My%20Profile&fontSize=22&fontColor=ffffff"
+    alt="Thank you for visiting my GitHub profile"
     width="100%"
   />
 
