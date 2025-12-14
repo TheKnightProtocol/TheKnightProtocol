@@ -520,32 +520,7 @@
 
 
 
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1C1C1C;">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:2F4F4F&height=55&section=header&text=Thank%20You%20for%20Visiting%20My%20Professional%20Profile&fontSize=22&fontColor=ffffff"
-    alt="Thank You for Visiting My Professional Profile"
-    width="100%"
-  />
-
-</div>
-
-
-
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1C1C1C; margin-top:40px;">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=65&section=header&text=Building%20Tomorrow%20with%20Purpose%20and%20Precision&fontSize=24&fontColor=ffffff"
-    width="100%"
-  />
-
-  <p style="font-size:15px; margin-top:14px; max-width:750px;">
-    Thank you for exploring my work. Every project reflects a commitment to clarity,
-    innovation, and long-term impact — where ideas evolve into meaningful solutions.
-  </p>
-
-</div>
-
+<
 
 
 
