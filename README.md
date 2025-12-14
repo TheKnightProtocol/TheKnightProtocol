@@ -511,26 +511,26 @@
 
 </div>
 
-
 <div align="center" style="margin-top:50px;">
 
   <!-- Box 1 -->
   <div style="background: linear-gradient(90deg, #0B1E3F, #1A3A6B, #2F5BA0); padding: 25px; border-radius: 14px; margin-bottom: 30px; width: 100%; max-width: 800px; color: #FFFFFF;">
-    <h2 style="font-family:'Merriweather', serif; font-size:26px; margin:0; text-align:center;">YOU HAVE REACHED THE LIMITS</h2>
-    <p style="font-family:'Open Sans', sans-serif; font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
-      Take a moment, reflect, and prepare for the next level.
+    <h2 style="font-family:'Times New Roman', serif; font-size:26px; margin:0; text-align:center;">YOU HAVE REACHED THE LIMITS</h2>
+    <p style="font-family:'Times New Roman', serif; font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
+      Excellence awaits those who continue.
     </p>
   </div>
 
   <!-- Box 2 -->
   <div style="background: linear-gradient(90deg, #2F0B3F, #6B1A6B, #A02F5B); padding: 25px; border-radius: 14px; width: 100%; max-width: 800px; color: #FFFFFF;">
-    <h2 style="font-family:'Merriweather', serif; font-size:26px; margin:0; text-align:center;">EXCELLENCE AWAITS FOR THOSE WHO FOLLOW 😊</h2>
-    <p style="font-family:'Open Sans', sans-serif; font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
-      Keep moving forward, your dedication defines your legacy.
+    <h2 style="font-family:'Times New Roman', serif; font-size:26px; margin:0; text-align:center;">EXCELLENCE AWAITS FOR THOSE WHO FOLLOW 😊</h2>
+    <p style="font-family: 'Cursive', serif; font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
+      Excellence awaits those who continue.
     </p>
   </div>
 
 </div>
+
 
 
 
