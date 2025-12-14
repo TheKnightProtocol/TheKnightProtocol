@@ -556,5 +556,99 @@
 
 
 
->
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1E1E1E; margin-top:52px;">
 
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F1A,50:1B2A41,100:2E3F5F&height=70&section=header&text=Ideas%20Are%20the%20Only%20Constant&fontSize=26&fontColor=FFFFFF"
+    width="100%"
+    alt="Ideas Are the Only Constant"
+  />
+
+  <p style="font-size:15.2px; margin-top:16px; max-width:780px; line-height:1.6;">
+    This portfolio is a record of exploration — across systems, abstractions,
+    and possibilities — guided by logic, curiosity, and responsibility.
+  </p>
+
+</div>
+2
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#222222; margin-top:50px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,50:243447,100:3A6073&height=68&section=header&text=Beyond%20the%20Known%20System&fontSize=25&fontColor=FFFFFF"
+    width="100%"
+    alt="Beyond the Known System"
+  />
+
+  <p style="font-size:15px; margin-top:14px; max-width:760px; line-height:1.6;">
+    Each project represents a step beyond the familiar —
+    where careful analysis meets imagination and execution.
+  </p>
+
+</div>
+
+3
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#2A2A2A; margin-top:48px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:2F3E46,100:354F52&height=64&section=header&text=Engineered%20for%20the%20Long%20Run&fontSize=24&fontColor=FFFFFF"
+    width="100%"
+    alt="Engineered for the Long Run"
+  />
+
+  <p style="font-size:14.8px; margin-top:12px; max-width:720px; line-height:1.55;">
+    Built with foresight, tested with discipline,
+    and designed to remain relevant as systems evolve.
+  </p>
+
+</div>
+
+4
+
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#2E2E2E; margin-top:46px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=60&section=header&text=The%20Work%20Continues&fontSize=23&fontColor=FFFFFF"
+    width="100%"
+    alt="The Work Continues"
+  />
+
+  <p style="font-size:14.5px; margin-top:12px; max-width:700px;">
+    This is not a conclusion, but a checkpoint —
+    refinement, iteration, and learning remain ongoing.
+  </p>
+
+</div>
+
+5
+
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#303030; margin-top:44px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=58&section=header&text=Order%20Within%20Complexity&fontSize=22&fontColor=FFFFFF"
+    width="100%"
+    alt="Order Within Complexity"
+  />
+
+  <p style="font-size:14.3px; margin-top:10px; max-width:680px;">
+    Complex systems demand structured thinking,
+    deliberate design, and respect for constraints.
+  </p>
+
+</div>
+
+6
+
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#333333; margin-top:42px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1C1C1C,100:2E2E2E&height=56&section=header&text=Signal%20Lost%20Purpose%20Found&fontSize=21&fontColor=FFFFFF"
+    width="100%"
+    alt="Signal Lost Purpose Found"
+  />
+
+  <p style="font-size:14px; margin-top:10px; max-width:660px;">
+    Exploration often begins in uncertainty —
+    clarity emerges through persistence and intent.
+  </p>
+
+</div>
