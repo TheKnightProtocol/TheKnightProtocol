@@ -546,3 +546,19 @@
 
 </div>
 
+
+
+
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#2B2B2B; margin-top:40px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=60&section=header&text=Where%20Ideas%20End%20and%20Impact%20Begins&fontSize=23&fontColor=ffffff"
+    width="100%"
+  />
+
+  <p style="font-size:14.5px; margin-top:12px; max-width:720px;">
+    This portfolio represents more than code — it reflects discipline, curiosity,
+    and a vision to create work that matters.
+  </p>
+
+</div>
