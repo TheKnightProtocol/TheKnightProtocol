@@ -493,31 +493,19 @@
 </table>
 
 
-
 <div align="center" style="font-family:'Times New Roman', Times, serif; color:#1C1C1C; margin-top:50px;">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3F,50:1A3A6B,100:2F5BA0&height=70&section=header&text=Every%20Ending%20Seeds%20a%20New%20Beginning&fontSize=24&fontColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3F,50:1A3A6B,100:2F5BA0&height=70&section=header&text=You%27ve%20Reached%20the%20Limits&fontSize=24&fontColor=FFFFFF"
     width="100%"
-    alt="Every Ending Seeds a New Beginning"
+    alt="You've Reached the Limits"
   />
 
   <p style="font-size:15px; margin-top:16px; max-width:780px; line-height:1.6;">
-    Achievements mark a pause, reflection sparks progress,
-    and every conclusion launches the next adventure.
+    Excellence awaits those who continue.
   </p>
 
 </div>
-
-
-
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#ffffff; background: linear-gradient(90deg, #0c0d20, #1b3460, #2c5995); padding: 28px 20px; border-radius: 12px; max-width: 820px; margin: 40px auto; box-shadow: 0 8px 28px rgba(0,0,0,0.5);">
-  <h2 style="font-size:28px; margin-bottom:12px; letter-spacing:1px;">⚡ Threshold Reached</h2>
-  <p style="font-size:16px; line-height:1.6; max-width:750px; margin:auto;">
-    You’ve reached the limits. Excellence awaits those who continue.
-  </p>
-</div>
-
 
 
 
