@@ -493,26 +493,42 @@
 </table>
 
 
+
+
+
+
 <div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
 
   <!-- Box 1 -->
   <div style="background: linear-gradient(90deg, #0B1E3F, #1A3A6B, #2F5BA0); padding: 20px; border-radius: 12px; margin-bottom: 30px; width: 100%; max-width: 800px; color: #FFFFFF;">
-    <h2 style="font-size:24px; margin:0; text-align:center;">Every Ending Seeds a New Beginning</h2>
-    <p style="font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
-      Achievements mark a pause, reflection sparks progress,
-      and every conclusion launches the next adventure.
-    </p>
+    <h2 style="font-size:24px; margin:0; text-align:center;">YOU HAVE REACHED THE LIMITS</h2>
   </div>
 
   <!-- Box 2 -->
   <div style="background: linear-gradient(90deg, #2F0B3F, #6B1A6B, #A02F5B); padding: 20px; border-radius: 12px; width: 100%; max-width: 800px; color: #FFFFFF;">
-    <h2 style="font-size:24px; margin:0; text-align:center;">You've Reached the Limits</h2>
-    <p style="font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
-      Excellence awaits those who continue.
-    </p>
+    <h2 style="font-size:24px; margin:0; text-align:center;">EXCELLENCE AWAITS FOR THOSE WHO FOLLOW 😊</h2>
   </div>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
