@@ -565,7 +565,7 @@
 
 
 
-
+3
 <div align="center" style="font-family:'Times New Roman', Times, serif; color:#1E1E1E; margin-top:38px;">
 
   <img
@@ -575,6 +575,20 @@
 
   <p style="font-size:14px; margin-top:12px; max-width:700px;">
     Progress is not accidental. It is engineered — one thoughtful solution at a time.
+  </p>
+
+</div>
+
+4
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#333333; margin-top:36px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:434343,100:000000&height=56&section=header&text=Professionalism%20Driven%20by%20Excellence&fontSize=21&fontColor=ffffff"
+    width="100%"
+  />
+
+  <p style="font-size:13.8px; margin-top:10px; max-width:680px;">
+    Crafted with precision, guided by best practices, and aligned with real-world impact.
   </p>
 
 </div>
