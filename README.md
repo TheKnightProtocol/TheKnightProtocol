@@ -517,52 +517,6 @@
 
 
 
-
-
-
-<
-
-
-
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#2B2B2B; margin-top:40px;">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=60&section=header&text=Where%20Ideas%20End%20and%20Impact%20Begins&fontSize=23&fontColor=ffffff"
-    width="100%"
-  />
-
-  <p style="font-size:14.5px; margin-top:12px; max-width:720px;">
-    This portfolio represents more than code — it reflects discipline, curiosity,
-    and a vision to create work that matters.
-  </p>
-
-</div>
-
-
-
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1F1F1F; margin-top:48px;">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1D26,50:1E3C52,100:2E5C6E&height=70&section=header&text=Crafting%20Work%20That%20Endures&fontSize=26&fontColor=FFFFFF"
-    width="100%"
-    alt="Crafting Work That Endures"
-  />
-
-  <p style="font-size:15.5px; margin-top:16px; max-width:780px; line-height:1.6;">
-    Thank you for reaching the end of this portfolio.
-    Every project here reflects deliberate thinking, disciplined execution,
-    and a long-term commitment to building solutions that remain relevant
-    beyond trends and timelines.
-  </p>
-
-  <p style="font-size:14px; margin-top:8px; letter-spacing:0.5px;">
-    — Designed with intent. Built with purpose.
-  </p>
-
-</div>
-
-
-
 <div align="center" style="font-family:'Times New Roman', Times, serif; color:#242424; margin-top:50px;">
 
   <img
