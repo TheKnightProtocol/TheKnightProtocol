@@ -606,3 +606,17 @@
   </p>
 
 </div>
+
+6
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#444444; margin-top:32px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:ECE9E6,100:FFFFFF&height=48&section=header&text=End%20of%20Portfolio&fontSize=19&fontColor=333333"
+    width="100%"
+  />
+
+  <p style="font-size:13px; margin-top:8px;">
+    I appreciate your interest and time.
+  </p>
+
+</div>
