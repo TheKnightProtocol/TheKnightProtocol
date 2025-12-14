@@ -515,6 +515,19 @@
 
 
 
+<div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
+
+  <!-- Box 1 -->
+  <div style="background: linear-gradient(90deg, #1C0B33, #4B1A6B, #A02F95); padding: 20px; border-radius: 12px; margin-bottom: 30px; width: 100%; max-width: 800px; color: #FFFFFF;">
+    <h2 style="font-size:24px; margin:0; text-align:center;">YOU HAVE REACHED THE LIMITS</h2>
+  </div>
+
+  <!-- Box 2 -->
+  <div style="background: linear-gradient(90deg, #2A0D3F, #6B1A7B, #D49BFF); padding: 20px; border-radius: 12px; width: 100%; max-width: 800px; color: #FFFFFF;">
+    <h2 style="font-size:24px; margin:0; text-align:center;">EXCELLENCE AWAITS FOR THOSE WHO FOLLOW 😊</h2>
+  </div>
+
+</div>
 
 
 
