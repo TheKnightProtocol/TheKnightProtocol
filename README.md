@@ -588,22 +588,17 @@
 
 
 
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#232323; margin-top:46px;">
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#2A2A2A; margin-top:44px;">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,50:2C2F33,100:414345&height=66&section=header&text=From%20Concept%20to%20Meaningful%20Impact&fontSize=25&fontColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:434343,50:2B2B2B,100:000000&height=62&section=header&text=Professional%20Excellence%20Through%20Thoughtful%20Design&fontSize=23&fontColor=FFFFFF"
     width="100%"
-    alt="From Concept to Meaningful Impact"
+    alt="Professional Excellence Through Thoughtful Design"
   />
 
-  <p style="font-size:15px; margin-top:14px; max-width:760px; line-height:1.6;">
-    This space captures a journey of learning, refining, and delivering with care.
-    Beyond code and tools, it represents curiosity, responsibility,
-    and a drive to create work that genuinely serves its purpose.
-  </p>
-
-  <p style="font-size:13.8px; margin-top:6px;">
-    Thank you for your time and attention.
+  <p style="font-size:14.5px; margin-top:12px; max-width:720px; line-height:1.55;">
+    A portfolio built on clarity, best practices, and real-world relevance —
+    focused on delivering dependable, high-quality outcomes.
   </p>
 
 </div>
