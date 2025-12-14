@@ -504,7 +504,7 @@
   />
 
   <p style="font-size:15px; margin-top:16px; max-width:780px; line-height:1.6;">
-    Excellence awaits those who continue.
+    𝓔𝓧𝓒𝓔𝓛𝓛𝓔𝓝𝓒𝓔 𝓐𝓦𝓐𝓘𝓣𝓢 𝓕𝓞𝓡 𝓣𝓗𝓞𝓢𝓔 𝓦𝓗𝓞 𝓕𝓞𝓛𝓛𝓞𝓦
   </p>
 
 </div>
