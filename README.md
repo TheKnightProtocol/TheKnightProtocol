@@ -602,3 +602,21 @@
   </p>
 
 </div>
+
+
+
+
+
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#2A2A2A; margin-top:48px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1C1C1C,100:434343&height=64&section=header&text=Endings%20That%20Speak%20for%20Themselves&fontSize=23&fontColor=FFFFFF"
+    width="100%"
+    alt="Endings That Speak for Themselves"
+  />
+
+  <p style="font-size:14.6px; margin-top:12px; max-width:720px;">
+    Clear thinking. Careful execution. Meaningful results.
+  </p>
+
+</div>
