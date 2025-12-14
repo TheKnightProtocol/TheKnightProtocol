@@ -511,6 +511,15 @@
 
 
 
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#ffffff; background: linear-gradient(90deg, #0c0d20, #1b3460, #2c5995); padding: 28px 20px; border-radius: 12px; max-width: 820px; margin: 40px auto; box-shadow: 0 8px 28px rgba(0,0,0,0.5);">
+  <h2 style="font-size:28px; margin-bottom:12px; letter-spacing:1px;">⚡ Threshold Reached</h2>
+  <p style="font-size:16px; line-height:1.6; max-width:750px; margin:auto;">
+    You’ve reached the limits. Excellence awaits those who continue.
+  </p>
+</div>
+
+
+
 
 
 
