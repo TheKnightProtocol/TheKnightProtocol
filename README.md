@@ -493,17 +493,24 @@
 </table>
 
 
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1C1C1C; margin-top:50px;">
+<div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3F,50:1A3A6B,100:2F5BA0&height=70&section=header&text=You%27ve%20Reached%20the%20Limits&fontSize=24&fontColor=FFFFFF"
-    width="100%"
-    alt="You've Reached the Limits"
-  />
+  <!-- Box 1 -->
+  <div style="background: linear-gradient(90deg, #0B1E3F, #1A3A6B, #2F5BA0); padding: 20px; border-radius: 12px; margin-bottom: 30px; width: 100%; max-width: 800px; color: #FFFFFF;">
+    <h2 style="font-size:24px; margin:0; text-align:center;">Every Ending Seeds a New Beginning</h2>
+    <p style="font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
+      Achievements mark a pause, reflection sparks progress,
+      and every conclusion launches the next adventure.
+    </p>
+  </div>
 
-  <p style="font-size:15px; margin-top:16px; max-width:780px; line-height:1.6;">
-    Excellence awaits those who continue.
-  </p>
+  <!-- Box 2 -->
+  <div style="background: linear-gradient(90deg, #2F0B3F, #6B1A6B, #A02F5B); padding: 20px; border-radius: 12px; width: 100%; max-width: 800px; color: #FFFFFF;">
+    <h2 style="font-size:24px; margin:0; text-align:center;">You've Reached the Limits</h2>
+    <p style="font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
+      Excellence awaits those who continue.
+    </p>
+  </div>
 
 </div>
 
