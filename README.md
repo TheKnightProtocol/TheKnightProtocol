@@ -585,3 +585,26 @@
   </p>
 
 </div>
+
+
+
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#232323; margin-top:46px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,50:2C2F33,100:414345&height=66&section=header&text=From%20Concept%20to%20Meaningful%20Impact&fontSize=25&fontColor=FFFFFF"
+    width="100%"
+    alt="From Concept to Meaningful Impact"
+  />
+
+  <p style="font-size:15px; margin-top:14px; max-width:760px; line-height:1.6;">
+    This space captures a journey of learning, refining, and delivering with care.
+    Beyond code and tools, it represents curiosity, responsibility,
+    and a drive to create work that genuinely serves its purpose.
+  </p>
+
+  <p style="font-size:13.8px; margin-top:6px;">
+    Thank you for your time and attention.
+  </p>
+
+</div>
+
