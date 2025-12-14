@@ -562,3 +562,20 @@
   </p>
 
 </div>
+
+
+
+
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1E1E1E; margin-top:38px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=58&section=header&text=Engineering%20with%20Intent%20Designing%20with%20Vision&fontSize=22&fontColor=ffffff"
+    width="100%"
+  />
+
+  <p style="font-size:14px; margin-top:12px; max-width:700px;">
+    Progress is not accidental. It is engineered — one thoughtful solution at a time.
+  </p>
+
+</div>
+
