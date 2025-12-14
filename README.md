@@ -512,21 +512,25 @@
 </div>
 
 
-
-<div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
+<div align="center" style="margin-top:50px;">
 
   <!-- Box 1 -->
-  <div style="background: linear-gradient(90deg, #1C0B33, #4B1A6B, #A02F95); padding: 20px; border-radius: 12px; margin-bottom: 30px; width: 100%; max-width: 800px; color: #FFFFFF;">
-    <h2 style="font-size:24px; margin:0; text-align:center;">YOU HAVE REACHED THE LIMITS</h2>
+  <div style="background: linear-gradient(90deg, #0B1E3F, #1A3A6B, #2F5BA0); padding: 25px; border-radius: 14px; margin-bottom: 30px; width: 100%; max-width: 800px; color: #FFFFFF;">
+    <h2 style="font-family:'Merriweather', serif; font-size:26px; margin:0; text-align:center;">YOU HAVE REACHED THE LIMITS</h2>
+    <p style="font-family:'Open Sans', sans-serif; font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
+      Take a moment, reflect, and prepare for the next level.
+    </p>
   </div>
 
   <!-- Box 2 -->
-  <div style="background: linear-gradient(90deg, #2A0D3F, #6B1A7B, #D49BFF); padding: 20px; border-radius: 12px; width: 100%; max-width: 800px; color: #FFFFFF;">
-    <h2 style="font-size:24px; margin:0; text-align:center;">EXCELLENCE AWAITS FOR THOSE WHO FOLLOW 😊</h2>
+  <div style="background: linear-gradient(90deg, #2F0B3F, #6B1A6B, #A02F5B); padding: 25px; border-radius: 14px; width: 100%; max-width: 800px; color: #FFFFFF;">
+    <h2 style="font-family:'Merriweather', serif; font-size:26px; margin:0; text-align:center;">EXCELLENCE AWAITS FOR THOSE WHO FOLLOW 😊</h2>
+    <p style="font-family:'Open Sans', sans-serif; font-size:15px; margin-top:12px; line-height:1.6; text-align:center;">
+      Keep moving forward, your dedication defines your legacy.
+    </p>
   </div>
 
 </div>
-
 
 
 
