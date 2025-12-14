@@ -494,6 +494,20 @@
 
 
 
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1C1C1C; margin-top:50px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3F,50:1A3A6B,100:2F5BA0&height=70&section=header&text=Every%20Ending%20Seeds%20a%20New%20Beginning&fontSize=24&fontColor=FFFFFF"
+    width="100%"
+    alt="Every Ending Seeds a New Beginning"
+  />
+
+  <p style="font-size:15px; margin-top:16px; max-width:780px; line-height:1.6;">
+    Achievements mark a pause, reflection sparks progress,
+    and every conclusion launches the next adventure.
+  </p>
+
+</div>
 
 
 
