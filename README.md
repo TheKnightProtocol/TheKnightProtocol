@@ -593,3 +593,16 @@
 
 </div>
 
+5
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#2C2C2C; margin-top:34px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:E0E0E0,100:B0B0B0&height=50&section=header&text=Thank%20You%20for%20Your%20Time&fontSize=20&fontColor=1C1C1C"
+    width="100%"
+  />
+
+  <p style="font-size:13.5px; margin-top:10px;">
+    Thoughtfully built. Purposefully shared.
+  </p>
+
+</div>
