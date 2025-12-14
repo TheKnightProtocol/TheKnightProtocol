@@ -588,18 +588,17 @@
 
 
 
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#2A2A2A; margin-top:44px;">
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#242424; margin-top:50px;">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:434343,50:2B2B2B,100:000000&height=62&section=header&text=Professional%20Excellence%20Through%20Thoughtful%20Design&fontSize=23&fontColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1F1F1F,100:3A3A3A&height=66&section=header&text=Designed%20with%20Intent%20Delivered%20with%20Discipline&fontSize=24&fontColor=FFFFFF"
     width="100%"
-    alt="Professional Excellence Through Thoughtful Design"
+    alt="Designed with Intent Delivered with Discipline"
   />
 
-  <p style="font-size:14.5px; margin-top:12px; max-width:720px; line-height:1.55;">
-    A portfolio built on clarity, best practices, and real-world relevance —
-    focused on delivering dependable, high-quality outcomes.
+  <p style="font-size:14.8px; margin-top:14px; max-width:740px; line-height:1.55;">
+    A body of work shaped by clarity, responsibility,
+    and respect for long-term impact.
   </p>
 
 </div>
-
