@@ -620,3 +620,25 @@
   </p>
 
 </div>
+
+
+
+
+
+<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1C1C1C; margin-top:52px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1A24,50:1B2B34,100:2E4050&height=72&section=header&text=Work%20That%20Stands%20the%20Test%20of%20Time&fontSize=26&fontColor=FFFFFF"
+    width="100%"
+    alt="Work That Stands the Test of Time"
+  />
+
+  <p style="font-size:15.5px; margin-top:18px; max-width:800px; line-height:1.6;">
+    Thank you for reading to the end.
+    This portfolio is a record of careful decisions,
+    consistent standards, and an enduring commitment
+    to building things the right way.
+  </p>
+
+</div>
+
