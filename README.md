@@ -523,4 +523,14 @@
 </div>
 
 
+
+<div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:1a1a1a,100:2d2d2d&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontColor=f0e68c&fontSize=20&animation=fadeIn"
+    width="95%"
+    alt="Visionary Builder"
+  />
+
+</div>
     
