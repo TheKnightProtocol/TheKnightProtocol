@@ -538,15 +538,9 @@
 
     
 
-<div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=60&color=222222&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontColor=ffcc33&fontSize=19&animation=fadeIn"
-    width="90%"
-    alt="Visionary Builder"
-  />
 
-</div>
+
 
 
 
@@ -555,19 +549,8 @@
 <div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=68&color=0:000000,100:1c1c1c&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontColor=ffd966&fontSize=20&animation=scale&stroke=444444"
-    width="96%"
-    alt="Visionary Builder"
-  />
-
-</div>
-
-
-<div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=68&color=0:000000,100:1c1c1c&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontColor=ffd966&fontSize=20&animation=scale&stroke=444444"
-    width="96%"
+    src="https://capsule-render.vercel.app/api?type=slice&height=72&color=0:151515,50:252525,100:151515&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontColor=ffaa33&fontSize=21&animation=twinkling"
+    width="94%"
     alt="Visionary Builder"
   />
 
