@@ -495,32 +495,10 @@
 
 
 
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#1C1C1C; margin-top:50px;">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3F,50:1A3A6B,100:2F5BA0&height=70&section=header&text=You%27ve%20Reached%20the%20Limits&fontSize=24&fontColor=FFFFFF"
-    width="100%"
-    alt="You've Reached the Limits"
-  />
-
-  <p style="font-size:15px; margin-top:16px; max-width:780px; line-height:1.6;">
-    𝓔𝓧𝓒𝓔𝓛𝓛𝓔𝓝𝓒𝓔 𝓐𝓦𝓐𝓘𝓣𝓢 𝓕𝓞𝓡 𝓣𝓗𝓞𝓢𝓔 𝓦𝓗𝓞 𝓕𝓞𝓛𝓛𝓞𝓦
-  </p>
-
-</div>
 
 
 
 
-<div align="center" style="font-family:'Times New Roman', Times, serif; color:#ff3333; margin-top:50px;">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2a2a,50:1a1a1a,100:0d0d0d&height=70&section=header&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontSize=22&fontColor=ffcc00"
-    width="100%"
-    alt="Visionary Builder"
-  />
-
-</div>
 
 
 <div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
@@ -532,3 +510,9 @@
   />
 
 </div>
+
+
+
+
+
+
