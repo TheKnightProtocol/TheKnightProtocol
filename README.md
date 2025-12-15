@@ -536,22 +536,22 @@
 
 
 
-    
-
-
-
-
-
-
-
-
-
-<div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
+    <div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=slice&height=72&color=0:151515,50:252525,100:151515&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontColor=ffaa33&fontSize=21&animation=twinkling"
-    width="94%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=65&color=1a1a1a&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontColor=ffcc00&fontSize=20&animation=fadeIn"
+    width="92%"
     alt="Visionary Builder"
   />
 
 </div>
+
+
+
+
+
+
+
+
+
+
