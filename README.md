@@ -511,6 +511,33 @@
 
 
 
+<div align="center" style="font-family: 'Segoe UI', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; color: #1a1a2e; margin-top: 40px;">
 
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=75&section=header&reversal=false&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontSize=24&fontColor=e6e6e6&animation=fadeIn"
+    width="90%"
+    alt="Visionary Builder"
+  />
 
+  <div style="margin: 25px auto; padding: 0 20px; max-width: 700px;">
+    <p style="font-size: 16px; color: #2d4059; line-height: 1.7; font-weight: 400; letter-spacing: 0.3px;">
+      <span style="color: #0f3460; font-weight: 600;">Innovation</span> isn't about predicting the future—it's about creating it. 
+      I architect solutions that anticipate needs, craft experiences that feel intuitive, 
+      and build products that users <span style="color: #ff5722; font-weight: 600;">adopt before they understand why</span>.
+    </p>
+    
+    <div style="margin: 20px 0; padding: 15px; background: linear-gradient(90deg, #f8f9fa 0%, #ffffff 50%, #f8f9fa 100%); border-radius: 10px; border-left: 4px solid #0f3460;">
+      <p style="font-size: 15px; color: #4a4a4a; margin: 0; font-style: italic;">
+        "The best products don't just solve problems—they reveal possibilities."
+      </p>
+    </div>
+  </div>
+
+  <div style="margin-top: 10px;">
+    <p style="font-size: 14px; color: #6c757d; letter-spacing: 0.5px; font-weight: 300;">
+      VISION MEETS EXECUTION • ANTICIPATION MEETS IMPLEMENTATION
+    </p>
+  </div>
+
+</div>
 
