@@ -514,5 +514,15 @@
 
 
 
+<div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&height=80&color=0:1a1a1a,100:2a2a2a&text=Building%20What%20Users%20Love%20Before%20They%20Know%20They%20Need%20It&fontColor=ff3333&fontSize=22&animation=scale"
+    width="100%"
+    alt="Visionary Builder"
+  />
+
+</div>
+
 
 
