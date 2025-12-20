@@ -1,4 +1,4 @@
-
+ 
  
  
  
@@ -462,68 +462,12 @@
 
 
 
-  ## 🥇 Main Skills
 
-<table align="center">
 
-  <!-- Programming Languages -->
-  <tr>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/><br/>JavaScript</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"/><br/>TypeScript</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/><br/>Python</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/><br/>Java</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/><br/>C++</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/go-icon.svg" width="55"/><br/>Go</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=rust" width="45"/><br/>Rust</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" width="45"/><br/>Solidity</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/php-icon.svg" width="55"/><br/>PHP</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ruby" width="45"/><br/>Ruby</td>
-  </tr>
 
-  <!-- Frameworks -->
-  <tr>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"/><br/>React</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="55"/><br/>Next.js</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/vue-icon.svg" width="55"/><br/>Vue</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nuxtjs" width="45"/><br/>Nuxt.js</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/angular-icon.svg" width="55"/><br/>Angular</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="55"/><br/>Node.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="45"/><br/>Express</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=laravel" width="45"/><br/>Laravel</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="55"/><br/>Django</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="45"/><br/>Flask</td>
-  </tr>
 
-  <!-- Blockchain / Web3 -->
-  <tr>
-    <td align="center" width="90"><img src="./icons/ethereum.png" height="45"/><br/>Ethereum</td>
-    <td align="center" width="90"><img src="./icons/solana.png" height="45"/><br/>Solana</td>
-    <td align="center" width="90"><img src="./icons/stellar.png" height="45"/><br/>Stellar</td>
-    <td align="center" width="90"><img src="./icons/aptos1.png" height="45"/><br/>Aptos</td>
-    <td align="center" width="90"><img src="./icons/polkadot1.png" height="45"/><br/>Polkadot</td>
-    <td align="center" width="90"><img src="./icons/cosmos.png" height="45"/><br/>Cosmos</td>
-    <td align="center" width="90"><img src="./icons/polygon1.png" height="45"/><br/>Polygon</td>
-    <td align="center" width="90"><img src="./icons/ton.png" height="45"/><br/>TON</td>
-    <td align="center" width="90"><img src="./icons/trx.png" height="45"/><br/>Tron</td>
-    <td align="center" width="90"><img src="./icons/sui.png" height="45"/><br/>Sui</td>
-  </tr>
-
-  <!-- Tools, Databases & Others -->
-  <tr>
-    <td align="center" width="90"><img src="./icons/binance.png" height="45"/><br/>Binance</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="55"/><br/>Flutter</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/fastapi-icon.svg" width="55"/><br/>FastAPI</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="55"/><br/>Tailwind</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="55"/><br/>MongoDB</td>
-    <td align="center" width="90"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/><br/>MySQL</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br/>PostgreSQL</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br/>SQLite</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs" width="45"/><br/>NestJS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=svelte" width="45"/><br/>Svelte</td>
-  </tr>
-
-</table>
-
+  
+  
   
 
 
