@@ -461,7 +461,7 @@
 
 
 
-
+<br>C++ </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
 
 
 <div align="center" style="font-family:'Times New Roman', Times, serif; margin-top:50px;">
