@@ -374,7 +374,7 @@
 
 
 
-## 🥇 Main Skills
+## 🥇  Skills Section 
 
 ### 💻 Programming Languages
 <table align="center">
