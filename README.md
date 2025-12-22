@@ -173,6 +173,20 @@
 
 
 
+
+### 👀 Profile Views
+[![View Counter](https://southpark-view-counter.vercel.app/@TheKnightProtocol?theme=southpark&padding=7&darkmode=auto)](https://github.com/TheKnightProtocol)
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=TheKnightProtocol&theme=monokai&no-frame=true&no-bg=false&margin-w=25&row=1"
