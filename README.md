@@ -180,6 +180,13 @@
 
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=TheKnightProtocol&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+
+
+
+
 
 
 
