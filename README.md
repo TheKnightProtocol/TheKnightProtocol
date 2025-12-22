@@ -180,12 +180,10 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheKnightProtocol&label=Visitors&color=blue&style=flat-square" />
-</p>
 
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=TheKnightProtocol&label=PROFILE+VIEWS&color=black&style=plastic)
 
 
 
