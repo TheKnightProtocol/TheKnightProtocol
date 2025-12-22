@@ -183,7 +183,8 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheKnightProtocol&label=PROFILE+VIEWS&color=black&style=plastic)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheKnightProtocol&label=PROFILE+VIEWS&color=black&style=plastic
 
 
 
