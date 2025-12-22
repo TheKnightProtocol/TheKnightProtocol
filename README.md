@@ -398,26 +398,26 @@
    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45"/><br/>C++
     </td>
-
-   <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/go-icon.svg" width="45"/><br/>Go
+ <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45"/><br/>Go
     </td>
 
    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/rust-icon.svg" width="45"/><br/>Rust
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="45"/><br/>Rust
+    </td>
+
+  <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="45"/><br/>Solidity
+    </td>
+
+  <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/><br/>PHP
     </td>
 
    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/solidity-icon.svg" width="45"/><br/>Solidity
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45"/><br/>Ruby
     </td>
-
-   <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/php-icon.svg" width="45"/><br/>PHP
-    </td>
-
-   <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ruby-icon.svg" width="45"/><br/>Ruby
-    </td>
+   
   </tr>
 </table>
 
