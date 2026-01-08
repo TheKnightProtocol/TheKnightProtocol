@@ -281,6 +281,107 @@
 </p>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ===================== LEETCODE ===================== -->
+<details open>
+  <summary><h2>🚀 LeetCode Arena – Problem Solving Excellence</h2></summary>
+
+  <div align="center">
+    <p><i>Sharpening algorithms daily — consistency, precision, and mastery.</i></p>
+
+  <p>
+      <a href="https://leetcode.com/u/THEKNIGHTPROTOCOL/" target="_blank">
+        <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="160" />
+      </a>
+      <a href="https://leetcode.com/u/THEKNIGHTPROTOCOL/" target="_blank">
+        <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="160" />
+      </a>
+      <a href="https://leetcode.com/u/THEKNIGHTPROTOCOL/" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="160" />
+      </a>
+      <a href="https://leetcode.com/u/THEKNIGHTPROTOCOL/" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="160" />
+      </a>
+    </p>
+
+  <p>
+      <img width="45%" src="https://leetcard.jacoblin.cool/THEKNIGHTPROTOCOL?theme=dark&font=Nunito&ext=heatmap" />
+    </p>
+  </div>
+</details>
+
+
+<!-- ===================== GEEKSFORGEEKS ===================== -->
+<details open>
+  <summary><h2>🟢 GeeksforGeeks – DSA & Core CS Strength</h2></summary>
+
+  <div align="center">
+    <p><i>Strong foundation in Data Structures, Algorithms, and Computer Science fundamentals.</i></p>
+
+  <p>
+      <a href="https://www.geeksforgeeks.org/profile/workwithsapr75" target="_blank">
+        <img width="48%" src="https://gfgstatscard.vercel.app/workwithsapr75" alt="GFG Stats Card" />
+      </a>
+    </p>
+
+  <p>
+      <img width="48%" src="https://gfgstatscard.vercel.app/workwithsapr75?theme=dark" alt="GFG Heatmap" />
+    </p>
+  </div>
+</details>
+
+
+<!-- ===================== HACKERRANK ===================== -->
+<details open>
+  <summary><h2>💻 HackerRank – Language & Skill Certifications</h2></summary>
+
+  <div align="center">
+    <p><i>Validated expertise across problem solving, algorithms, and programming languages.</i></p>
+
+  <p>
+      <a href="https://www.hackerrank.com/profile/sankalpsharma121" target="_blank">
+        <img width="48%" src="https://hrankbadge.vercel.app/api?username=sankalpsharma121" alt="HackerRank Badges" />
+      </a>
+    </p>
+
+  <p>
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sankalpsharma121&repo=hackerrank&theme=dark" />
+    </p>
+  </div>
+</details>
+
+
+<!-- ===================== CODEFORCES ===================== -->
+<details open>
+  <summary><h2>⚔️ Codeforces – Competitive Programming Battles</h2></summary>
+
+  <div align="center">
+    <p><i>Battle-tested logic through timed contests and advanced problem sets.</i></p>
+
+  <p>
+      <a href="https://codeforces.com/profile/KnightSkull" target="_blank">
+        <img width="48%" src="https://cf-stats.vercel.app/api?username=KnightSkull" alt="Codeforces Stats" />
+      </a>
+    </p>
+
+    <p>
+      <img width="48%" src="https://cf-stats.vercel.app/api/heatmap?username=KnightSkull" alt="Codeforces Heatmap" />
+    </p>
+  </div>
+</details>
+
 <details open>
   <summary><h2>🚀 LeetCode Quest 🧠</h2></summary>
 
