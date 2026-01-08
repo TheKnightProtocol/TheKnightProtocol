@@ -376,7 +376,7 @@
       </a>
     </p>
 
-    <p>
+  <p>
       <img width="48%" src="https://cf-stats.vercel.app/api/heatmap?username=KnightSkull" alt="Codeforces Heatmap" />
     </p>
   </div>
