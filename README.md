@@ -281,34 +281,41 @@
 </p>
 
 
+<details open>
+  <summary><h2>🚀 LeetCode Quest 🧠</h2></summary>
 
-<div align="center"> 
-  <h2 align="center">🚀 LeetCode Quest 🧠</h2>  
-  <p align="center"><i>Coding one problem at a time — forging brilliance through bugs and breakthroughs.</i></p>
-               
+  <div align="center">  
+    <p align="center"><i>Coding one problem at a time — forging brilliance through bugs and breakthroughs.</i></p>
+                 
   <p align="center">
-    <!-- Replace these as you earn new badges -->
-    <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February Badge" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March Badge" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 200 Problem Badge" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problem Badge" height="200" width="200" />
-    </a>
-  </p>
+      <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
+        <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February Badge" height="200" width="200" />
+      </a>
+      <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
+        <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March Badge" height="200" width="200" />
+      </a>
+      <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 200 Problem Badge" height="200" width="200" />
+      </a>
+      <a href="https://leetcode.com/TheKnightProtocol/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problem Badge" height="200" width="200" />
+      </a>
+    </p>
 
   <p align="center">
-    <img width="40%" src="https://leetcard.jacoblin.cool/THEKNIGHTPROTOCOL?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
-  </p>
+      <img width="40%" src="https://leetcard.jacoblin.cool/THEKNIGHTPROTOCOL?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap Card" />  
+    </p>
 
  
-</div>
-                     
+
+  </div>
+</details>
+
+
+
+
+
+            
   
 <p align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
