@@ -302,22 +302,22 @@
     <p><i>Sharpening algorithms daily — consistency, precision, and mastery.</i></p>
 
   <p>
-      <a href="https://leetcode.com/u/THEKNIGHTPROTOCOL/" target="_blank">
+      <a href="https://leetcode.com/u/DevilsLover/" target="_blank">
         <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="160" />
       </a>
-      <a href="https://leetcode.com/u/THEKNIGHTPROTOCOL/" target="_blank">
+      <a href="https://leetcode.com/u/DevilsLover/" target="_blank">
         <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="160" />
       </a>
-      <a href="https://leetcode.com/u/THEKNIGHTPROTOCOL/" target="_blank">
+      <a href="https://leetcode.com/u/DevilsLover/" target="_blank">
         <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="160" />
       </a>
-      <a href="https://leetcode.com/u/THEKNIGHTPROTOCOL/" target="_blank">
+      <a href="https://leetcode.com/u/DevilsLover/" target="_blank">
         <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="160" />
       </a>
     </p>
 
   <p>
-      <img width="45%" src="https://leetcard.jacoblin.cool/THEKNIGHTPROTOCOL?theme=dark&font=Nunito&ext=heatmap" />
+      <img width="45%" src="https://leetcard.jacoblin.cool/DevilsLover?theme=dark&font=Nunito&ext=heatmap" />
     </p>
   </div>
 </details>
