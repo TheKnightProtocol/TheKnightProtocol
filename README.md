@@ -331,13 +331,13 @@
     <p><i>Strong foundation in Data Structures, Algorithms, and Computer Science fundamentals.</i></p>
 
   <p>
-      <a href="https://www.geeksforgeeks.org/profile/workwithsapr75" target="_blank">
-        <img width="48%" src="https://gfgstatscard.vercel.app/workwithsapr75" alt="GFG Stats Card" />
+      <a href="https://www.geeksforgeeks.org/profile/claasy" target="_blank">
+        <img width="48%" src="https://gfgstatscard.vercel.app/claasy" alt="GFG Stats Card" />
       </a>
     </p>
 
   <p>
-      <img width="48%" src="https://gfgstatscard.vercel.app/workwithsapr75?theme=dark" alt="GFG Heatmap" />
+      <img width="48%" src="https://gfgstatscard.vercel.app/claasy?theme=dark" alt="GFG Heatmap" />
     </p>
   </div>
 </details>
