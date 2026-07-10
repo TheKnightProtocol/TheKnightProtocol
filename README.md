@@ -147,7 +147,65 @@
   />
 </p>
 
+## 📊 GitHub Analytics
 
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheKnightProtocol&theme=react-dark&hide_border=true&area=true" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=TheKnightProtocol&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=TheKnightProtocol&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+## 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/TheKnightProtocol/TheKnightProtocol/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=TheKnightProtocol&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/TheKnightProtocol">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 <!--START_SECTION:waka-->
 
