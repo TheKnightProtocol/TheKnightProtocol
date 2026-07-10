@@ -158,16 +158,6 @@
 <!--END_SECTION:waka-->
 
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TheKnightProtocol&show_icons=true&theme=neon&hide_border=true" />
-
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheKnightProtocol&layout=compact&theme=neon&hide_border=true" />
-
-  <img width="60%" src="https://streak-stats.demolab.com?user=TheKnightProtocol&theme=neon&hide_border=true" />
-</p>
-
-     
-
 
 
 
